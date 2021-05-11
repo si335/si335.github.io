@@ -1,3 +1,3 @@
 ### Welcome
 
-~~Hello.~~ *Good day.* **Goodbye**.
+Hi.
