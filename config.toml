@@ -1,6 +1,8 @@
 # The URL the site will be built for
 base_url = "https://si335.github.io"
 
+title = "Stefan Ivanov"
+description = " "
 
 theme = "henry"
 
@@ -17,3 +19,10 @@ highlight_code = false
 
 [extra]
 # Put all your custom variables here
+henry_links = [
+    {url = "/about", name = "About"},
+    {url = "/teaching", name = "Teaching"},
+    {url = "/other", name = "Other"}
+]
+
+henry_github = "https://github.com/si335"

@@ -2,6 +2,7 @@ base_url = "https://si335.github.io"
 
 title = "Stefan Ivanov"
 description = " "
+
 compile_sass = false
 highlight_code = true
 generate_rss = true
@@ -12,5 +13,6 @@ henry_links = [
     {url = "/teaching", name = "Teaching"},
     {url = "/other", name = "Other"}
 ]
+
 henry_github = "https://github.com/si335"
 
