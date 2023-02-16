@@ -10,6 +10,8 @@ jobs:
     name: Publish site
     runs-on: ubuntu-latest
     steps:
+    - name: Change Owner of Container Working Directory
+      run: chown root:root .
     - name: Checkout main
       uses: actions/checkout@v3.0.0
     - name: Build and deploy
