@@ -13,7 +13,7 @@ jobs:
     - name: Checkout main
       uses: actions/checkout@v3.0.0
     - name: Build and deploy
-      uses: si335/zola-deploy-action@v0.16.1
+      uses: si335/zola-deploy-action
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
