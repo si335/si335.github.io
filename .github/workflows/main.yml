@@ -10,11 +10,12 @@ jobs:
     name: Publish site
     runs-on: ubuntu-latest
     steps:
-    - name: Change Owner of Container Working Directory
-      run: chown root:root .
     - name: Checkout main
       uses: actions/checkout@v3.0.0
+    - run: git config --global --add safe.directory "$GITHUB_WORKSPACE"
     - name: Build and deploy
       uses: shalzz/zola-deploy-action@v0.16.1
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      
