@@ -23,4 +23,4 @@ I recommend the following path:
 * Read this [FAQ](https://knzhou.github.io/writing/Advice.pdf).
 * Work through an introductory book such as Halliday, Resnick and Krane.
 * Solve a few hundred problems from easier competitions. I write this with 9<sup>th</sup>/10<sup>th</sup> grade Russian Olympiads in mind, but F=ma and pre-2014 USAPhO work too.
-* Go through Kevin Zhou's [handouts](https://knzhou.github.io/#handouts).
+* Go through Kevin Zhou's [handouts](https://knzhou.github.io/#teaching).
