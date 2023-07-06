@@ -1,13 +1,13 @@
 +++
-title = "Bio"
 path = "about"
 template = "about.html"
 +++
 
-I'm a 4<sup>th</sup> year Physics student at the University of Cambridge. I'm mostly interested in general relativity, statistical physics, and education. You can find a CV [here](/cv_web.pdf).
+![01-2020](/01-2020.jpg)
+
+I just finished my Master's degree in Physics at the University of Cambridge. I retain an interest in general relativity, statistical physics, and education. You can find a CV [here](/cv_web.pdf).
 
 Get in touch!  
-[si335@cam.ac.uk](mailto:si335@cam.ac.uk) if it's work-related.  
-[sivanov.mail@yandex.com](mailto:sivanov.mail@yandex.com) for everything else.
+[sivanov.mail@proton.me](mailto:sivanov.mail@proton.me)  
 
 Website powered by [Zola](https://www.getzola.org/).
