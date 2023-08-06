@@ -22,6 +22,7 @@ highlight_code = false
 henry_links = [
     {url = "/about", name = "About"},
     {url = "/teaching", name = "Teaching"},
+    {url = "/computing", name = "Computing"},
     {url = "/other", name = "Other"}
 ]
 

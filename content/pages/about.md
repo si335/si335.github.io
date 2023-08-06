@@ -9,5 +9,3 @@ I just finished my Master's degree in Physics at the University of Cambridge. I 
 
 Get in touch!  
 [sivanov.mail@proton.me](mailto:sivanov.mail@proton.me)  
-
-Website powered by [Zola](https://www.getzola.org/).
