@@ -8,6 +8,14 @@ I like Terunofuji, Kirishima, Ura, Hokutofuji.
 
 Here's a collection of nice bouts. Footage can be found through NattoSumo's Discord server. 
 
+# Nagoya 2023
+
+* Day 3, Terunofuji vs Tobizaru
+* Day 6, Hokuseiho vs Ura
+* Day 10, Ura vs Kirishima
+* Day 12, Ura vs Mitakeumi
+* Day 13, Nishikigi vs Hakuoho
+
 # Natsu 2023
 
 * Day 4, Ryuden vs Hokuseiho

@@ -10,5 +10,5 @@ template = "about.html"
 
 ### [Sumo](/sumo)
 
-### [Movies](https://letterboxd.com/deluded/)
+### [Movies](https://letterboxd.com/deluded/) / [TV](https://serializd.com/user/giraffe/)
 

@@ -4,7 +4,7 @@ path = "computing"
 template = "about.html"
 +++
 
-I'm really a beginner when it comes to tinkering with computers. However, my quality of life has improved significantly since I started caring about having control over my computer. I used to be *scared* of computers until my supervisor in university got me to make the jump to Linux. I suggest you try it out too!
+I'm really a beginner when it comes to tinkering with computers. However, my quality of life has improved significantly since I started caring about my experience in front of a screen. I used to be *scared* of computers until my supervisor in university got me to make the jump to Linux. I suggest you try it out too!
 
 # Setup
 
@@ -16,7 +16,7 @@ I'm really a beginner when it comes to tinkering with computers. However, my qua
 
 * My browser is *Firefox*. I use *Betterfox* for privacy and *Tridactyl* for Vim keybindings.
 
-* This website is powered by [*Zola*](https://www.getzola.org/). I picked this site generator in favour of e.g. Hugo or Jekyll because it seemed less clunky. 
+* This website is powered by [*Zola*](https://www.getzola.org/). I chose it in favour of e.g. Hugo or Jekyll because it seemed less clunky. 
 
 # Tips
 
