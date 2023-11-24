@@ -1,6 +1,6 @@
 +++
 title = "Sumo"
-path = "sumo"
+path = "other/sumo"
 template = "about.html"
 +++
 

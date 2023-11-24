@@ -4,13 +4,15 @@ path = "teaching"
 template = "about.html"
 +++
 
-# Resources
+# Archives
 
 I maintain problem archives for High School Olympiads:  
 [Physics](https://mega.nz/folder/3ZpAGKYJ#hp_Z2CtDlJjhR9shIMHP8w). [[readme]](/archive-note_p.pdf)  
 [Astronomy](https://mega.nz/folder/3ZBWDbTL#U8-utZdSD-6URDjXS1t9Ag). [[readme]](/archive-note_a.pdf)
 
-I've translated some Russian problems on geometrical optics [here](/rayoptics.pdf).
+# Handouts
+
+ Russian problems on [geometrical optics](/rayoptics.pdf).
 
 # Olympiad advice
 

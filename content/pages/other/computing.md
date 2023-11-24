@@ -1,6 +1,6 @@
 +++
 title = "Computing"
-path = "computing"
+path = "other/computing"
 template = "about.html"
 +++
 

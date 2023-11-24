@@ -1,6 +1,6 @@
 +++
 title = "Classical Music"
-path = "cm"
+path = "/other/cm"
 template = "about.html"
 +++
 
@@ -30,6 +30,7 @@ I am not a musician, unfortunately. That said, here are some recordings that I r
 * Beethoven String Quartet No. 14 [(Ariel Quartet)](https://www.youtube.com/watch?v=FUob2dcQTWA)
 * Schubert String Quartet No. 14 [(Integra Quartet)](https://www.youtube.com/watch?v=yWxlmjaNk8A)
 * Mendelssohn Piano Trio No. 1 [(Beaux Arts Trio)](https://www.youtube.com/watch?v=KioVcstEF9E)
+* Chopin Cello Sonata [(Mørk/Stott)](https://www.youtube.com/watch?v=E2az8ch_EIU)
 * R. Schumann Piano Sonata No. 2 [(Argerich)](https://www.youtube.com/watch?v=UjlO0ABn3vQ)
 * R. Schumann Piano Trio No. 3 [(Munich Dvořák Trio)](https://www.youtube.com/watch?v=C0oFKoIs4z4)
 * C. Schumann Piano Trio [(Atlantis Trio)](https://www.youtube.com/watch?v=udZiIvt4w24)
@@ -43,3 +44,4 @@ I am not a musician, unfortunately. That said, here are some recordings that I r
 * Tchaikovsky Piano Trio [(Kissin/Bell/Maisky)](https://www.youtube.com/watch?v=3M8KKABLhVo)
 * Dvořák Piano Trio No. 4 [(Beaux Arts Trio)](https://www.youtube.com/watch?v=vDPkMvUAgqo)
 * Dvořák Piano Quintet No. 2 [(Haefliger/Takács Quartet)](https://www.youtube.com/watch?v=_qz6y-ME8zs)
+* Rachmaninoff Cello Sonata [(Lugansky/Capuçon)](https://www.youtube.com/watch?v=KkcJBjuCuPY)

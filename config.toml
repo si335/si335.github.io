@@ -1,16 +1,13 @@
-# The URL the site will be built for
 base_url = "https://si335.github.io"
 
 title = "Stefan Ivanov"
 description = " "
 
-theme = "henry"
+compile_sass = false
 
-# Whether to automatically compile all Sass files in the sass directory
-compile_sass = true
+highlight_code = true
 
-# Whether to build a search index to be used later on by a JavaScript library
-build_search_index = false
+generate_rss = true
 
 [markdown]
 # Whether to do syntax highlighting
@@ -18,11 +15,9 @@ build_search_index = false
 highlight_code = false
 
 [extra]
-# Put all your custom variables here
 henry_links = [
     {url = "/about", name = "About"},
     {url = "/teaching", name = "Teaching"},
-    {url = "/computing", name = "Computing"},
     {url = "/other", name = "Other"}
 ]
 
