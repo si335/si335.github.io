@@ -10,6 +10,7 @@ template = "about.html"
  
 [Механика](/iphobg/mech.pdf)\
 [Електричество и магнетизъм](/iphobg/emag.pdf)
+[Топлина](/iphobg/thermo.pdf)
 
 # Бележки
 
