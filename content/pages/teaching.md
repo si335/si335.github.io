@@ -12,7 +12,8 @@ I maintain problem archives for High School Olympiads:
 
 # Handouts
 
- Russian problems on [geometrical optics](/rayoptics.pdf).
+[Russian geometrical optics](/rayoptics.pdf)\
+[IPhO resources (in Bulgarian)](/iphobg)\
 
 # Olympiad advice
 
