@@ -24,10 +24,10 @@ template = "about.html"
 
 *Национални кръгове:*\
 [Механика](/iphobg/mech_nat.pdf)\
-Електричество и магнетизъм\
+[Електричество и магнетизъм](/iphobg/emag_nat.pdf)\
 [Топлина](/iphobg/thermo_nat.pdf)\
 [Оптика и вълни](/iphobg/optics_nat.pdf)\
-Модерна физика\
+[Модерна физика](/iphobg/modern_nat.pdf)\
 
 # Бележки
 

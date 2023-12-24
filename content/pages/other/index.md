@@ -10,7 +10,7 @@ template = "about.html"
 
 ### [Classical music](/other/cm)
 
-### [Sumo](other/sumo)
+### [Sumo](/other/sumo)
 
 ### [Movies](https://letterboxd.com/deluded/) / [TV](https://serializd.com/user/giraffe/)
 
