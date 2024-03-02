@@ -40,9 +40,9 @@ template = "about.html"
 
 Тук са дадени помощни материали към решаването на задачите. Обикновено това са разяснителни бележки по въпроси, зададени от ученици.
 
-[Дължина на крива](/iphobg/DuljinaNaKriva.pdf)\
-[Радиус на кривина](/iphobg/RadiusNaKrivina.pdf)\
-[Безкрайни електрически вериги](/iphobg/BezkrainiVerigi.pdf)\
-[Газови потоци, напр. при турбини](/iphobg/JouleThomson.pdf)\
-[Отражение от огледална сфера](/iphobg/OgledalnaSfera.pdf)
+*Математика:* &nbsp; [Дължина на крива](/iphobg/CurveLength.pdf) / [Радиус на кривина](/iphobg/CurvatureRadius.pdf)\
+*Механика:* &nbsp; [Обвивка на орбити](/iphobg/EnvelopeEllipse.pdf)\
+*Електричество и магнетизъм:* &nbsp;  [Електростатично налягане](/iphobg/ElectrostaticPressure.pdf) / [Безкрайни електрически вериги](/iphobg/InfiniteCircuits.pdf)\
+*Топлина:* &nbsp; [Газови потоци, напр. при турбини](/iphobg/JouleThomson.pdf)\
+*Оптика и вълни:* &nbsp; [Отражение от огледална сфера](/iphobg/MirrorSphere.pdf)
 
