@@ -28,7 +28,7 @@ Vim is a very powerful editor which is well worth learning. Here's how:
 
 * By then you should be ready to work through the examples in [Practical Vim](https://pragprog.com/titles/dnvim2/practical-vim-second-edition/).
 
-* After you're done with the book, you're safe to go out into the wild. You'll find additional tips on [vimcasts.org](https://vimcasts.org) or [/r/vim](https://old.reddit.com/r/vim/). You might also enjoy playing [vimgolf](https://old.reddit.com/r/vim/).
+* After you're done with the book, you're safe to go out into the wild. You'll find additional tips on [vimcasts.org](https://vimcasts.org) or [/r/vim](https://old.reddit.com/r/vim/). You might also enjoy playing [vimgolf](https://www.vimgolf.com/).
 
 Vim is extremely customisable, and this allows for wizardry. For example, I've copied a workflow that makes working with LaTeX trivial via the plugin [*VimTeX*](https://github.com/lervag/vimtex) and the pdf viewer [*Zathura*](https://pwmt.org/projects/zathura/). See it in action on Elijan Mastnak's [website](https://ejmastnak.com/tutorials/vim-latex/intro/).
 
