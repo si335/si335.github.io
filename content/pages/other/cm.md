@@ -17,7 +17,7 @@ I am not a musician, unfortunately. That said, here are some recordings that I r
 # Concertos
 
 * Beethoven – Violin Concerto [(Oistrakh)](https://www.youtube.com/watch?v=ZLllWipBTDc)
-* Chopin Piano – Concertos Nos. 1 & 2 [(Zimerman)](https://www.youtube.com/watch?v=5BLU-CaKIt8&list=OLAK5uy_lYoRMn5PjDGe41z1MoD6sfbEOH3VwkePM)
+* Chopin – Piano Concertos Nos. 1 & 2 [(Zimerman)](https://www.youtube.com/watch?v=5BLU-CaKIt8&list=OLAK5uy_lYoRMn5PjDGe41z1MoD6sfbEOH3VwkePM)
 * R. Schumann – Piano Concerto [(Grimaud)](https://www.youtube.com/watch?v=NCeTl85p-WU)
 * Brahms – Piano Concerto No. 1 [(Freire)](https://www.youtube.com/watch?v=rDhBywJ5zCU) [(Zimerman)](https://www.youtube.com/watch?v=OrmeHjUG-0k&list=OLAK5uy_keyr8G67Fjw6KjVQmjsEzDwG_WAMmKUEM)
 * Brahms – Piano Concerto No. 2 [(Zimerman)](https://www.youtube.com/watch?v=tWoFaPwbzqE)
@@ -35,7 +35,6 @@ I am not a musician, unfortunately. That said, here are some recordings that I r
 * Schubert – String Quartet No. 14 [(Integra Quartet)](https://www.youtube.com/watch?v=yWxlmjaNk8A)
 * Mendelssohn – Piano Trio No. 1 [(Beaux Arts Trio)](https://www.youtube.com/watch?v=KioVcstEF9E)
 * Chopin – Cello Sonata [(Mørk/Stott)](https://www.youtube.com/watch?v=E2az8ch_EIU)
-* R. Schumann – Piano Sonata No. 2 [(Argerich)](https://www.youtube.com/watch?v=UjlO0ABn3vQ)
 * C. Schumann – Piano Trio [(Atlantis Trio)](https://www.youtube.com/watch?v=udZiIvt4w24)
 * Franck – Piano Trio No. 1 [(Trio Novanta)](https://www.youtube.com/watch?v=izzXp0aOL2I)
 * Brahms – Piano Trio No. 1 [(Pires/Dumay/Wang)](https://www.youtube.com/watch?v=XKqIHLb5_mk)
@@ -45,25 +44,32 @@ I am not a musician, unfortunately. That said, here are some recordings that I r
 * Brahms – Clarinet Quintet [(Leister/Brandis Quartet)](https://www.youtube.com/watch?v=RU9WlDIkuRE) 
 * Brahms – Clarinet Trio [(Trio Légende)](https://www.youtube.com/watch?v=1oYTSEDvASA)
 * Tchaikovsky – Piano Trio [(Kissin/Bell/Maisky)](https://www.youtube.com/watch?v=3M8KKABLhVo)
-* Dvořák – Piano Trio No. 4 [(Beaux Arts Trio)](https://www.youtube.com/watch?v=vDPkMvUAgqo)
+* Dvořák – Piano Trio No. 4, 'Dumky' [(Beaux Arts Trio)](https://www.youtube.com/watch?v=vDPkMvUAgqo)
 * Dvořák – Piano Quintet No. 2 [(Haefliger/Takács Quartet)](https://www.youtube.com/watch?v=_qz6y-ME8zs)
 * Elgar – Enigma Variations [(Kaspszyk)](https://www.youtube.com/watch?v=vLNLvcBmoqo)
 * Rachmaninoff – Cello Sonata [(Lugansky/Capuçon)](https://www.youtube.com/watch?v=KkcJBjuCuPY)
 
 # Solo music
 
-* Beethoven – Piano Sonata No. 29 [(Pollini)](https://www.youtube.com/watch?v=0vH726tBg70)
+* Beethoven – Piano Sonata No. 17, 'Tempest' [(Korstick)](https://www.youtube.com/watch?v=hl_6lAvMsKE)
+* Beethoven – Piano Sonata No. 29, 'Hammerklavier' [(Pollini)](https://www.youtube.com/watch?v=0vH726tBg70)
 * Chopin – Piano Sonata No. 2 [(Pogorelich)](https://www.youtube.com/watch?v=gHZHy2B6MCc) [(Zimerman)](https://www.youtube.com/watch?v=DhB59YCvxuw)
 * R. Schumann – Piano Sonata No. 1 [(Perahia)](https://www.youtube.com/watch?v=ruV4V5mPwW8)
+* R. Schumann – Piano Sonata No. 2 [(Argerich)](https://www.youtube.com/watch?v=UjlO0ABn3vQ)
 * Bortkiewicz – Lamentations and Consolations [(Somero)](https://www.youtube.com/watch?v=2-NCL7vnKZM)
 
 # Short pieces and movements
 
 * Beethoven – Coriolan Overture [(Karajan)](https://www.youtube.com/watch?v=DzINFjNPmqI)
 * Beethoven – Grosse Fuge [(Dover Quartet)](https://www.youtube.com/watch?v=MVJt4t4RIcw)
+* Schubert – Impromptu Op. 90, No.3 [(Horowitz)](https://www.youtube.com/watch?v=LgHyKuC6tQs)
+* Schubert – Piano Sonata No. 21, Mov. I [(Zimerman)](https://www.youtube.com/watch?v=Z1kRFDA7orU)
 * Mendelssohn – String Quartet No. 2, Mov. I [(Dover Quartet)](https://www.youtube.com/watch?v=FwtACU4NR3M)
 * R. Schumann – Piano Trio No. 3, Mov. I [(Munich Dvořák Trio)](https://www.youtube.com/watch?v=C0oFKoIs4z4)
 * Brahms – Piano Trio No. 2, Mov. II [(Pires/Dumay/Wang)](https://www.youtube.com/watch?v=Fy3CP6JfFyI)
 * Brahms – Cello Sonata No. 2, Mov. III [(Mørk/Lagerspetz)](https://youtu.be/sBq93Qt-VOo?feature=shared&t=1010)
 * Brahms – String Quartet No. 2, Mov. I [(Dover Quartet)](https://www.youtube.com/watch?v=pIjjH4VDOiU)
 * Sarasate – Zigeunerweisen [(Gitlis)](https://www.youtube.com/watch?v=V0pFYZOtGbs)
+* Fauré – Cantique de Jean Racine [(Letonja)](https://www.youtube.com/watch?v=yVAY_AgHHp4)
+* Fauré – Pavane [(Handford)](https://www.youtube.com/watch?v=Jw8PurepHxk)
+* Fauré – Sicilienne [(Isserlis/Devoyon)](https://www.youtube.com/watch?v=byDBJ8yDxO8)
