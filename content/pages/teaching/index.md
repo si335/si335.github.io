@@ -12,7 +12,7 @@ I maintain problem archives for High School Olympiads:
 
 # Handouts
 
-[Bulgarian IPhO Team Selection Tests](/teaching/tst)\
+[Bulgarian IPhO team selection tests](/teaching/tst)\
 [Russian geometrical optics](/rayoptics.pdf)\
 [IPhO resources (in Bulgarian)](/iphobg)\
 
