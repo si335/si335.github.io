@@ -9,7 +9,7 @@ Sad emojis indicate years for which I don't have all the problems. I would be ve
 2005: [Problems](/teaching/TST2005.pdf) | Solutions   
 2006: [Problems](/teaching/TST2006.pdf) | Solutions  
 2007: [Problems](/teaching/TST2007.pdf) | Solutions &nbsp; &#128549;     
-2008: [Problems](/teaching/TST2008.pdf) | Solutions &nbsp; &#128549;     
+2008: [Problems](/teaching/TST2008.pdf) | [Solutions](/teaching/TST2008sol.pdf) &nbsp; &#128549;     
 2009: [Problems](/teaching/TST2009.pdf) | Solutions &nbsp; &#128549;   
 2010: Problems | Solutions &nbsp; &#128549;   
 2011: Problems | Solutions &nbsp; &#128549;   
