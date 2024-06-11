@@ -7,9 +7,6 @@
         <loc>https://si335.github.io/about/</loc>
     </url>
     <url>
-        <loc>https://si335.github.io/iphobg/</loc>
-    </url>
-    <url>
         <loc>https://si335.github.io/other/</loc>
     </url>
     <url>
@@ -23,6 +20,9 @@
     </url>
     <url>
         <loc>https://si335.github.io/teaching/</loc>
+    </url>
+    <url>
+        <loc>https://si335.github.io/teaching/iphobg/</loc>
     </url>
     <url>
         <loc>https://si335.github.io/teaching/tst/</loc>

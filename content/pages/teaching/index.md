@@ -13,8 +13,8 @@ I maintain problem archives for High School Olympiads:
 # Handouts
 
 [Bulgarian IPhO team selection tests](/teaching/tst)\
-[Russian geometrical optics](/rayoptics.pdf)\
-[IPhO resources (in Bulgarian)](/iphobg)\
+[Russian geometrical optics](/teaching/rayoptics.pdf)\
+[IPhO resources (in Bulgarian)](/teaching/iphobg)\
 
 # Olympiad advice
 
