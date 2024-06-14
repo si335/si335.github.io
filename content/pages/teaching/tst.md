@@ -25,3 +25,4 @@ Sad emojis indicate years for which I don't have all the problems. I would be ve
 2021: [Problems](/teaching/TST2021.pdf) | Solutions   
 2022: [Problems](/teaching/TST2022.pdf) | Solutions   
 2023: [Problems](/teaching/TST2023.pdf) | Solutions   
+2024: [Problems](/teaching/TST2024.pdf) | Solutions   
