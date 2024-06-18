@@ -28,4 +28,4 @@ Sad emojis indicate years for which I don't have all the problems. I would be ve
 2024: [Problems](/teaching/TST2024.pdf) | Solutions  
 
 Other undated TST problems (with solutions):\
-[Band gap of germanium](/teaching/germanium.pdf)\
+[Band gap of germanium](/teaching/germanium.pdf)
