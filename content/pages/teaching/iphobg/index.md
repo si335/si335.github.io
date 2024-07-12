@@ -4,9 +4,6 @@ path = "teaching/iphobg"
 template = "about.html"
 +++
 
-# Подготовка – ново!
-
-Между 01.07.24 и 10.07.24 организирам безплатна подготовка по физика за учениците от националния отбор и всички други желаещи. Информация може да намерите [тук](/teaching/iphobg/camp).
 
 # Съвети
 
@@ -50,8 +47,11 @@ template = "about.html"
 Тук са дадени помощни материали към решаването на задачите. Обикновено това са разяснителни бележки по въпроси, зададени от ученици.
 
 *Математика:* &nbsp; [Дължина на крива](/teaching/iphobg/CurveLength.pdf) / [Радиус на кривина](/teaching/iphobg/CurvatureRadius.pdf)\
-*Механика:* &nbsp; [Обвивка на орбити](/teaching/iphobg/EnvelopeEllipse.pdf)\
-*Електричество и магнетизъм:* &nbsp;  [Електростатично налягане](/teaching/iphobg/ElectrostaticPressure.pdf) / [Безкрайни електрически вериги](/teaching/iphobg/InfiniteCircuits.pdf)\
-*Топлина:* &nbsp; [Газови потоци, напр. при турбини](/teaching/iphobg/JouleThomson.pdf)\
+*Механика:* &nbsp; [Обвивка на орбити](/teaching/iphobg/EnvelopeEllipse.pdf) / [Въртене в три измерения (на англ.)](/teaching/iphobg/Rotation.pdf)\
+*Електричество и магнетизъм:* &nbsp;  [Електростатично налягане](/teaching/iphobg/ElectrostaticPressure.pdf) / [Безкрайни електрически вериги](/teaching/iphobg/InfiniteCircuits.pdf) / [Електрични и магнитни диполи](/teaching/iphobg/Dipoles.pdf) / [Поляризация и магнетизация](/teaching/iphobg/Magnetisation.pdf)\
+*Топлина:* &nbsp; [Газови потоци, напр. при турбини](/teaching/iphobg/JouleThomson.pdf) / [Наситени пари и влажност](/teaching/iphobg/Humidity.pdf) \
 *Оптика и вълни:* &nbsp; [Отражение от огледална сфера](/teaching/iphobg/MirrorSphere.pdf)
 
+# Подготовка, юли 2024 г.
+
+Между 01.07.24 и 10.07.24 организирах безплатна подготовка по физика за учениците от националния отбор и всички други желаещи. Страницата на подготовката е [тук](/teaching/iphobg/camp).
