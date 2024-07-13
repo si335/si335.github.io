@@ -22,10 +22,10 @@ template = "about.html"
 | 04.07 |&nbsp;&nbsp;         [[СИ] Топлина](/teaching/iphobg/camp/04A.pdf)                 |&nbsp;&nbsp;  [[СИ] Топлина/ЕМ](/teaching/iphobg/camp/04B.pdf)             |
 | 05.07 |&nbsp;&nbsp;         [[СИ] Електромагнетизъм](/teaching/iphobg/camp/05A.pdf)       |&nbsp;&nbsp;  [[СИ] Електромагнетизъм](/teaching/iphobg/camp/05B.pdf)      |
 | 06.07 |&nbsp;&nbsp;         Почивка                      |&nbsp;&nbsp;  [[СИ] Електромагнетизъм](/teaching/iphobg/camp/06B.pdf)      |
-| 07.07 |&nbsp;&nbsp;         [ГА] Модерна физика          |&nbsp;&nbsp;  [АП] Относителност          |
-| 08.07 |&nbsp;&nbsp;         [АП] IPhO '22                |&nbsp;&nbsp;  [ГА] Относителност          |
-| 09.07 |&nbsp;&nbsp;         [ГА] Модерна физика          |&nbsp;&nbsp;  [ГА] Електромагнетизъм      |
-| 10.07 |&nbsp;&nbsp;         [ГА] Вълни/Оптика            |&nbsp;&nbsp;  [ГА] Механика               |
+| 07.07 |&nbsp;&nbsp;         [[ГА] Модерна физика](/teaching/iphobg/camp/07A.pdf)          |&nbsp;&nbsp;  [АП] Относителност          |
+| 08.07 |&nbsp;&nbsp;         [[АП] IPhO '22](/teaching/iphobg/camp/08A.pdf)                |&nbsp;&nbsp;  [[ГА] Относителност](/teaching/iphobg/camp/08B.pdf)          |
+| 09.07 |&nbsp;&nbsp;         [[ГА] Относителност/ЕМ](/teaching/iphobg/camp/09A.pdf)          |&nbsp;&nbsp;  [[ГА] Електромагнетизъм](/teaching/iphobg/camp/09B.pdf)      |
+| 10.07 |&nbsp;&nbsp;         [[ГА] Модерна физика](/teaching/iphobg/camp/10A.pdf)            |&nbsp;&nbsp;  [[ГА] Механика](/teaching/iphobg/camp/10B.pdf)               |
 
 </div>
 
