@@ -4,7 +4,7 @@ path = "/other/cm"
 template = "about.html"
 +++
 
-I am not a musician, unfortunately. That said, here are some recordings that I really enjoy. More to be added when time allows.
+I am not a musician, unfortunately. That said, here are some recordings that I really enjoy.
 
 # Symphonies
 
@@ -34,7 +34,9 @@ I am not a musician, unfortunately. That said, here are some recordings that I r
 * Beethoven – String Quartet No. 14 [(Ariel Quartet)](https://www.youtube.com/watch?v=FUob2dcQTWA)
 * Schubert – String Quartet No. 14 [(Integra Quartet)](https://www.youtube.com/watch?v=yWxlmjaNk8A)
 * Mendelssohn – Piano Trio No. 1 [(Beaux Arts Trio)](https://www.youtube.com/watch?v=KioVcstEF9E)
+* Mendelssohn – String Quartet No. 6 [(Ébène Quartet)](https://www.youtube.com/watch?v=beB-Vu8GuEs&list=PLq8wD17N4Ia1LNs8k34S9WVmMpr8hwexs)
 * Chopin – Cello Sonata [(Mørk/Stott)](https://www.youtube.com/watch?v=E2az8ch_EIU)
+* R. Schumann – Piano Quintet [(Vassilenko/Belcea Quartet)](https://youtu.be/EV3hBRtnDkA?feature=shared&t=123)
 * C. Schumann – Piano Trio [(Atlantis Trio)](https://www.youtube.com/watch?v=udZiIvt4w24)
 * Franck – Piano Trio No. 1 [(Trio Novanta)](https://www.youtube.com/watch?v=izzXp0aOL2I)
 * Brahms – Piano Trio No. 1 [(Pires/Dumay/Wang)](https://www.youtube.com/watch?v=XKqIHLb5_mk)
@@ -56,16 +58,21 @@ I am not a musician, unfortunately. That said, here are some recordings that I r
 * Chopin – Piano Sonata No. 2 [(Pogorelich)](https://www.youtube.com/watch?v=gHZHy2B6MCc) [(Zimerman)](https://www.youtube.com/watch?v=DhB59YCvxuw)
 * R. Schumann – Piano Sonata No. 1 [(Perahia)](https://www.youtube.com/watch?v=ruV4V5mPwW8)
 * R. Schumann – Piano Sonata No. 2 [(Argerich)](https://www.youtube.com/watch?v=UjlO0ABn3vQ)
+* Brahms – Ballades Op. 10,  Rhapsodies Op. 79 [(Gould)](https://www.youtube.com/watch?v=udEaG2A9kUs)
 * Bortkiewicz – Lamentations and Consolations [(Somero)](https://www.youtube.com/watch?v=2-NCL7vnKZM)
+* Medtner – Piano Sonata No. 2, 'Night Wind' [(Eckardstein)](https://www.youtube.com/watch?v=KhsD1MeQaXM)
 
 # Short pieces and movements
 
 * Beethoven – Coriolan Overture [(Karajan)](https://www.youtube.com/watch?v=DzINFjNPmqI)
 * Beethoven – Grosse Fuge [(Dover Quartet)](https://www.youtube.com/watch?v=MVJt4t4RIcw)
-* Schubert – Impromptu Op. 90, No.3 [(Horowitz)](https://www.youtube.com/watch?v=LgHyKuC6tQs)
+* Schubert – Impromptu Op. 90, No. 3 [(Horowitz)](https://www.youtube.com/watch?v=LgHyKuC6tQs)
 * Schubert – Piano Sonata No. 21, Mov. I [(Zimerman)](https://www.youtube.com/watch?v=Z1kRFDA7orU)
 * Mendelssohn – String Quartet No. 2, Mov. I [(Dover Quartet)](https://www.youtube.com/watch?v=FwtACU4NR3M)
+* Chopin – Nocturne Op. 48, No. 1 [(Weissenberg)](https://www.youtube.com/watch?v=KRuPvuCe-LM) 
 * R. Schumann – Piano Trio No. 3, Mov. I [(Munich Dvořák Trio)](https://www.youtube.com/watch?v=C0oFKoIs4z4)
+* R. Schumann – Piano Quartet, Mov. III [(Argerich/Jansen/Rachlin/Maisky)](https://www.youtube.com/watch?v=Rd8PDCOB2uI)
+* Wagner – Lohengrin Prelude [(Halasz)](https://www.youtube.com/watch?v=n2gRwvUVMqI)
 * Brahms – Piano Trio No. 2, Mov. II [(Pires/Dumay/Wang)](https://www.youtube.com/watch?v=Fy3CP6JfFyI)
 * Brahms – Cello Sonata No. 2, Mov. III [(Mørk/Lagerspetz)](https://youtu.be/sBq93Qt-VOo?feature=shared&t=1010)
 * Brahms – String Quartet No. 2, Mov. I [(Dover Quartet)](https://www.youtube.com/watch?v=pIjjH4VDOiU)
