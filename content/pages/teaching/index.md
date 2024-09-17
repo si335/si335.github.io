@@ -7,8 +7,8 @@ template = "about.html"
 # Archives
 
 I maintain problem archives for High School Olympiads:  
-[Physics](https://mega.nz/folder/3ZpAGKYJ#hp_Z2CtDlJjhR9shIMHP8w). [[readme]](/teaching/archive-note_p.pdf)  
-[Astronomy](https://mega.nz/folder/3ZBWDbTL#U8-utZdSD-6URDjXS1t9Ag). [[readme]](/teaching/archive-note_a.pdf)
+[Physics](https://mega.nz/folder/3ZpAGKYJ#hp_Z2CtDlJjhR9shIMHP8w) / [[readme]](/teaching/archive-note_p.pdf) / [[errata]](/teaching/errata.pdf)  
+[Astronomy](https://mega.nz/folder/3ZBWDbTL#U8-utZdSD-6URDjXS1t9Ag) / [[readme]](/teaching/archive-note_a.pdf)
 
 # Handouts
 
