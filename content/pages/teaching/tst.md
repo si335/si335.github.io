@@ -24,7 +24,7 @@ Sad emojis indicate years for which I don't have all the problems. I would be ve
 2020: Not held   
 2021: [Problems](/teaching/TST2021.pdf) | Solutions   
 2022: [Problems](/teaching/TST2022.pdf) | Solutions   
-2023: [Problems](/teaching/TST2023.pdf) | Solutions   
+2023: [Problems](/teaching/TST2023.pdf) | [<b>Solutions</b>](/teaching/TST2023sol.pdf)   
 2024: [Problems](/teaching/TST2024.pdf) | Solutions  
 
 Other undated TST problems (with solutions):\
