@@ -12,8 +12,11 @@ I maintain problem archives for High School Olympiads:
 
 # Handouts
 
+*Thermodynamics:*&nbsp; [Vapours](/teaching/Vapours.pdf)\
+*EM:*&nbsp; [Magnetic charges](/teaching/MagneticCharges.pdf)\
+*Optics:*&nbsp; [Russian problems](/teaching/RayOptics.pdf)\
 [Bulgarian IPhO team selection tests](/teaching/tst)\
-[Russian geometrical optics](/teaching/rayoptics.pdf)\
+
 [IPhO resources (in Bulgarian)](/teaching/iphobg)\
 
 # Olympiad advice
