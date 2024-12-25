@@ -6,7 +6,7 @@ template = "about.html"
 
 ![John Singer Sargent – Dolce Far Niente](/p1.jpeg "John Singer Sargent – Dolce Far Niente")
 
-### [Articles and videos](/other/links)
+### [Articles](/other/articles) / [Videos](/other/videos) / [Blogroll](/other/blogroll)
 
 ### [Movies](https://letterboxd.com/deluded/) / [TV](https://serializd.com/user/giraffe/)
 

@@ -15,6 +15,7 @@ I maintain problem archives for High School Olympiads:
 *Thermodynamics:*&nbsp; [Vapours](/teaching/Vapours.pdf)\
 *EM:*&nbsp; [Magnetic charges](/teaching/MagneticCharges.pdf)\
 *Optics:*&nbsp; [Russian problems](/teaching/RayOptics.pdf)\
+
 [Bulgarian IPhO team selection tests](/teaching/tst)\
 
 [IPhO resources (in Bulgarian)](/teaching/iphobg)\
