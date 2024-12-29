@@ -4,8 +4,6 @@ path = "/other/cm"
 template = "about.html"
 +++
 
-I am not a musician, unfortunately. That said, here are some recordings that I really enjoy.
-
 # Symphonies
 
 * Beethoven No. 5 [(Kleiber)](https://www.youtube.com/watch?v=WFifaY_eZU0)
@@ -27,7 +25,6 @@ I am not a musician, unfortunately. That said, here are some recordings that I r
 * Rachmaninoff – Piano Concerto No. 3 [(Weissenberg)](https://www.youtube.com/watch?v=aSXtXLAVgkE) 
 * Martinů – Harpsichord Concerto [(Růžičková)](https://www.youtube.com/watch?v=f6bMUPmWeCE)
 
-
 # Chamber music
 
 * Beethoven – String Quartet No. 13 [(Jasper Quartet)](https://www.youtube.com/watch?v=a7wk0M125JM)
@@ -36,11 +33,13 @@ I am not a musician, unfortunately. That said, here are some recordings that I r
 * Mendelssohn – Piano Trio No. 1 [(Beaux Arts Trio)](https://www.youtube.com/watch?v=KioVcstEF9E)
 * Mendelssohn – String Quartet No. 6 [(Ébène Quartet)](https://www.youtube.com/watch?v=beB-Vu8GuEs&list=PLq8wD17N4Ia1LNs8k34S9WVmMpr8hwexs)
 * Chopin – Cello Sonata [(Mørk/Stott)](https://www.youtube.com/watch?v=E2az8ch_EIU)
+* R. Schumann – Piano Quartet [(Goerner/Kashimoto/Karni/Gabetta)](https://www.youtube.com/watch?v=cu8tUCvBN34)
 * R. Schumann – Piano Quintet [(Vassilenko/Belcea Quartet)](https://youtu.be/EV3hBRtnDkA?feature=shared&t=123)
 * C. Schumann – Piano Trio [(Atlantis Trio)](https://www.youtube.com/watch?v=udZiIvt4w24)
 * Franck – Piano Trio No. 1 [(Trio Novanta)](https://www.youtube.com/watch?v=izzXp0aOL2I)
 * Brahms – Piano Trio No. 1 [(Pires/Dumay/Wang)](https://www.youtube.com/watch?v=XKqIHLb5_mk)
 * Brahms – Piano Trio No. 3 [(Katschen/Suk/Starker)](https://www.youtube.com/watch?v=qqq6FAI9i1s)
+* Brahms – Piano Quartet No. 1 [Fauré Quartet](https://www.youtube.com/watch?v=7BPX4ppMFQY)
 * Brahms – Violin Sonata No. 3 [(Oistrakh/Richter)](https://www.youtube.com/watch?v=VRn_8BtYjT8) [(Roussev/Uinskas)](https://www.youtube.com/watch?v=RTGEazhKC-4)
 * Brahms – Cello Sonata No. 1 [(Mørk/Lagerspetz)](https://www.youtube.com/watch?v=nPLVscIpH-0)
 * Brahms – Clarinet Quintet [(Leister/Brandis Quartet)](https://www.youtube.com/watch?v=RU9WlDIkuRE) 
@@ -71,7 +70,6 @@ I am not a musician, unfortunately. That said, here are some recordings that I r
 * Mendelssohn – String Quartet No. 2, Mov. I [(Dover Quartet)](https://www.youtube.com/watch?v=FwtACU4NR3M)
 * Chopin – Nocturne Op. 48, No. 1 [(Weissenberg)](https://www.youtube.com/watch?v=KRuPvuCe-LM) 
 * R. Schumann – Piano Trio No. 3, Mov. I [(Munich Dvořák Trio)](https://www.youtube.com/watch?v=C0oFKoIs4z4)
-* R. Schumann – Piano Quartet, Mov. III [(Argerich/Jansen/Rachlin/Maisky)](https://www.youtube.com/watch?v=Rd8PDCOB2uI)
 * Wagner – Lohengrin Prelude [(Halasz)](https://www.youtube.com/watch?v=n2gRwvUVMqI)
 * Brahms – Piano Trio No. 2, Mov. II [(Pires/Dumay/Wang)](https://www.youtube.com/watch?v=Fy3CP6JfFyI)
 * Brahms – Cello Sonata No. 2, Mov. III [(Mørk/Lagerspetz)](https://youtu.be/sBq93Qt-VOo?feature=shared&t=1010)
