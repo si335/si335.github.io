@@ -19,8 +19,14 @@ I maintain problem archives for High School Olympiads:
 [Bulgarian IPhO team selection tests](/teaching/tst)\
 
 [IPhO resources (in Bulgarian)](/teaching/iphobg)\
+[IOAA resources (in Bulgarian)](/teaching/ioaabg)\
 
 # Advice
 
 [Studying for Olympiads](/teaching/OlympiadAdvice.pdf)\
 [Exam Technique](/teaching/ExamTechnique.pdf) 
+
+# Tutoring
+
+This year I'll be doing some tutoring for Physics Olympiads, starting in February.\
+For more details, see [here](/teaching/Tutoring.pdf).
