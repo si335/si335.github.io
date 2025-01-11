@@ -49,7 +49,7 @@ template = "about.html"
 *Математика:* &nbsp; [Дължина на крива](/teaching/iphobg/CurveLength.pdf) / [Радиус на кривина](/teaching/iphobg/CurvatureRadius.pdf)\
 *Механика:* &nbsp; [Обвивка на орбити](/teaching/iphobg/EnvelopeEllipse.pdf) / [Въртене в три измерения (на англ.)](/teaching/iphobg/Rotation.pdf)\
 *Електричество и магнетизъм:* &nbsp;  [Електростатично налягане](/teaching/iphobg/ElectrostaticPressure.pdf) / [Безкрайни електрически вериги](/teaching/iphobg/InfiniteCircuits.pdf) / [Електрични и магнитни диполи](/teaching/iphobg/Dipoles.pdf) / [Поляризация и магнетизация](/teaching/iphobg/Magnetisation.pdf)\
-*Топлина:* &nbsp; [Газови потоци, напр. при турбини](/teaching/iphobg/JouleThomson.pdf) / [Наситени пари и влажност](/teaching/iphobg/Humidity.pdf) \
+*Топлина:* &nbsp; [Газови потоци, напр. при турбини](/teaching/iphobg/JouleThomson.pdf)\ 
 *Оптика и вълни:* &nbsp; [Отражение от огледална сфера](/teaching/iphobg/MirrorSphere.pdf)
 
 # Подготовка за IPhO, юли 2024 г.
