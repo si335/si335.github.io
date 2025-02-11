@@ -13,13 +13,13 @@ Many of the videos are put up as segues into channels that I enjoy; feel free to
 # Science
 
 * [A Geometric Answer to the Basel Problem](https://www.youtube.com/watch?v=d-o3eB9sfls) [0:17]
-* [Why Slicing a Cone Gives an Ellipse](https://www.youtube.com/watch?v=pQa_tWZmlGs) [0:13] 🆕
+* [Why Slicing a Cone Gives an Ellipse](https://www.youtube.com/watch?v=pQa_tWZmlGs) [0:13] 
 * [Why do Colliding Blocks Compute Pi?](https://www.youtube.com/watch?v=jsYwFizhncE) [0:15]
 * [The Fastest Maze-Solving Competition on Earth](https://www.youtube.com/watch?v=ZMQbHMgK2rw) [0:25]
 * [Cursed Units](https://www.youtube.com/watch?v=kkfIXUjkYqE) [0:18]
 * [Newton's Principia and a Book about Fish](https://www.youtube.com/watch?v=eZwzE2VFCtI) [0:09]
 * [What Everyone Gets Wrong about Planes](https://www.youtube.com/watch?v=vjDYfvPW4mA) [0:19]
-* [The Effects Of The Ionosphere On Radio Wave Propagation (1950)](https://www.youtube.com/watch?v=YVxprkGqCPk) [0:29] 🆕
+* [The Effects Of The Ionosphere On Radio Wave Propagation (1950)](https://www.youtube.com/watch?v=YVxprkGqCPk) [0:29] 
 * [The Man Who Killed Millions and Saved Billions](https://www.youtube.com/watch?v=QQkmJI63ykI) [0:21]
 * [Smoking is Awesome](https://www.youtube.com/watch?v=_rBPwu2uS-w) [0:12]
 
@@ -38,7 +38,7 @@ Many of the videos are put up as segues into channels that I enjoy; feel free to
 
 # Societies
 
-* [The Life of an Old School Japanese Cafe Owner](https://www.youtube.com/watch?v=zOCejq92pdo) [0:23] 🆕
+* [The Life of an Old School Japanese Cafe Owner](https://www.youtube.com/watch?v=zOCejq92pdo) [0:23] 
 * [What the Gulf? – Nation Building](https://www.youtube.com/watch?v=PsaZZZubF-I) [0:12] / [What the Gulf? – Blood and Oil](https://www.youtube.com/watch?v=l1FaOodAZHQ) [0:12]
 * [An Interview with a North Korean Spy](https://www.youtube.com/watch?v=t9rLqYXTaFI) [0:40]
 * [Haiti is Collapsing](https://www.youtube.com/watch?v=GTpOB9bTPT8) [0:47] / [Caught in Shooting in Haiti's Biggest Slum](https://www.youtube.com/watch?v=HzBKaiSFCZc&list=PLN0FlxE6vY5BZh0F-drw_4SASB7kwezUf) [0:34]
@@ -70,7 +70,7 @@ Many of the videos are put up as segues into channels that I enjoy; feel free to
 * [Art of the Unconscious Mind](https://www.youtube.com/watch?v=CqMjvkhS29s) [0:14]
 * [Mai Yoneyama – the Art behind Animation & Illustration](https://www.youtube.com/watch?v=9sdgXgfiTfI) [0:13]
 * [Westworld: What Makes Anthony Hopkins Great](https://www.youtube.com/watch?v=4kSGkGKwp9U) [0:09]
-* [Tarantino Saw It Coming](https://www.youtube.com/watch?v=dujnjw_s8bY) [0:25] 🆕
+* [Tarantino Saw It Coming](https://www.youtube.com/watch?v=dujnjw_s8bY) [0:25] 
 * [A Beginner's Guide to South Korean Cinema](https://www.youtube.com/watch?v=QdgjH5BAFqk) [0:16]
 * [The Beauty of The Fall](https://www.youtube.com/watch?v=cEIGYr16zqU) [0:03]
 
@@ -84,6 +84,7 @@ Many of the videos are put up as segues into channels that I enjoy; feel free to
 
 # Games
 
+* [Predatory Practices in Mobile Games](https://www.youtube.com/watch?v=xNjI03CGkb4) [0:20] 🆕
 * [What Games are Like for Someone Who Doesn't Play Games](https://www.youtube.com/watch?v=ax7f3JZJHSw) [0:21]
 * [Searching for Disco Elysium](https://www.youtube.com/watch?v=Md5PTWBuGpg) [0:24]
 * [Hollow Knight Critique](https://www.youtube.com/watch?v=7t1mxoMIDfY) [1:06]
@@ -96,6 +97,6 @@ Many of the videos are put up as segues into channels that I enjoy; feel free to
 * [Tatefacts – Phosphorus](https://www.youtube.com/watch?v=IXvB_pxv3Sg) [0:08]
 * [Australia is Wild](https://www.youtube.com/shorts/EIDTk33S5l0) [0:01] / [Looking for a Huge Anaconda](https://www.youtube.com/shorts/jsrPLvXqmO8) [0:01]
 * [Blunders! With GM Ben Finegold](https://www.youtube.com/watch?v=EDgRR7SGf0M) [0:57]
-* [Best of James May: Our Man in Japan](https://www.youtube.com/watch?v=SPfijTQXZ0I) [0:25] 🆕
+* [Best of James May: Our Man in Japan](https://www.youtube.com/watch?v=SPfijTQXZ0I) [0:25] 
 
 
