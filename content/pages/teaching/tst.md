@@ -28,7 +28,7 @@ template = "about.html"
 2024: [Problems](/teaching/TST2024.pdf) | Solutions  
 
 Other undated TST problems (with solutions):\
-[Band gap of germanium](/teaching/germanium.pdf)\
+[Band gap of germanium](/teaching/germanium.pdf)
 
 Sad emojis indicate incomplete question sets.\
 Send comments and corrections to [sivanov.mail@proton.me](mailto:sivanov.mail@proton.me).

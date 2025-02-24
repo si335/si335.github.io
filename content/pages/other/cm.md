@@ -57,6 +57,7 @@ template = "about.html"
 * Chopin – Piano Sonata No. 2 [(Pogorelich)](https://www.youtube.com/watch?v=gHZHy2B6MCc) [(Zimerman)](https://www.youtube.com/watch?v=DhB59YCvxuw)
 * R. Schumann – Piano Sonata No. 1 [(Perahia)](https://www.youtube.com/watch?v=ruV4V5mPwW8)
 * R. Schumann – Piano Sonata No. 2 [(Argerich)](https://www.youtube.com/watch?v=UjlO0ABn3vQ)
+* R. Schumann – Piano Sonata No. 3 [(Glemser)](https://www.youtube.com/watch?v=EClZICLRxrE)
 * Brahms – Ballades Op. 10,  Rhapsodies Op. 79 [(Gould)](https://www.youtube.com/watch?v=udEaG2A9kUs)
 * Bortkiewicz – Lamentations and Consolations [(Somero)](https://www.youtube.com/watch?v=2-NCL7vnKZM)
 * Medtner – Piano Sonata No. 2, 'Night Wind' [(Eckardstein)](https://www.youtube.com/watch?v=KhsD1MeQaXM)

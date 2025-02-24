@@ -8,7 +8,9 @@ I'm really a beginner when it comes to tinkering with computers. However, my qua
 
 # Setup
 
-* My Linux distribution is *Ubuntu*. More control over your computer comes with a time cost, and one needs to strike a balance according to their needs. Ubuntu sits in the middle of the spectrum between Windows and Arch Linux. It works very well out of the box, and I don't have any major issues with it. I plan to switch to Fedora in the future.
+* My Linux distribution is *Debian*. More control over your computer comes with a time cost, and one needs to strike a balance according to their needs. Debian sits in the middle of the spectrum between Windows and Arch Linux. I chose it because it's stable, meaning there aren't any annoying and potentially dangerious updates. Also, it was an easy transition from Ubuntu.
+
+* I prefer *KDE* as a desktop environment. It's much more customisable than GNOME.
 
 * I use the terminal with *bash* and [*tmux*](https://tmux.github.io). 
 

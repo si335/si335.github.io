@@ -4,8 +4,8 @@ title = "Stefan Ivanov"
 description = " "
 
 compile_sass = false
-highlight_code = true
-generate_rss = true
+# highlight_code = true
+# generate_rss = true
 
 [extra]
 henry_links = [

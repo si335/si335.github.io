@@ -5,9 +5,8 @@ description = " "
 
 compile_sass = false
 
-highlight_code = true
-
-generate_rss = true
+# highlight_code = true
+# generate_rss = true
 
 [markdown]
 # Whether to do syntax highlighting

@@ -18,7 +18,7 @@ template = "about.html"
 Този учебник все още е един от най-добрите начини за научаване на конспекта на международните олимпиади, тъй като съдържа почти всичката нужна информация в сравнително малко страници. Понеже учебникът вече е библиографска рядкост, го предоставям тук като файлове.   
 
 [Част I](https://mega.nz/file/6NJzFYTK#YHvmCWNXhHqLTroNyDuRFIgkfHP2ZJuICo4P3_gjvkc)\
-[Част II](https://mega.nz/file/7AhiGZCA#oRh_E5ORXrPmZKc0j_lYj6CINXNIPo-_WhJ60-1n9fQ)\
+[Част II](https://mega.nz/file/7AhiGZCA#oRh_E5ORXrPmZKc0j_lYj6CINXNIPo-_WhJ60-1n9fQ)
 
 # Задачи от специални теми и национални кръгове
 
@@ -29,14 +29,14 @@ template = "about.html"
 [Електричество и магнетизъм](/teaching/iphobg/emag.pdf)\
 [Топлина](/teaching/iphobg/thermo.pdf)\
 [Оптика и вълни](/teaching/iphobg/optics.pdf)\
-[Модерна физика](/teaching/iphobg/modern.pdf)\
+[Модерна физика](/teaching/iphobg/modern.pdf)
 
 *Национални кръгове:*\
 [Механика](/teaching/iphobg/mech_nat.pdf)\
 [Електричество и магнетизъм](/teaching/iphobg/emag_nat.pdf)\
 [Топлина](/teaching/iphobg/thermo_nat.pdf)\
 [Оптика и вълни](/teaching/iphobg/optics_nat.pdf)\
-[Модерна физика](/teaching/iphobg/modern_nat.pdf)\
+[Модерна физика](/teaching/iphobg/modern_nat.pdf)
 
 # Задачи от подборни кръгове
 
