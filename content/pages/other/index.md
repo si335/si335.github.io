@@ -34,7 +34,6 @@ Polymaths:
 
 Physics:
 * [Bartosz Ciechanowski](https://ciechanow.ski/archives/) | High-quality visualisations.
-* [Scott Locklin](https://scottlocklin.wordpress.com/) | Abrasive guy, but too interesting to leave out.
 
 Other:
 * [Ex Utopia](https://www.exutopia.com/) | Fascinating travel blog.
