@@ -8,7 +8,7 @@ I'm really a beginner when it comes to tinkering with computers. However, my qua
 
 # Setup
 
-* My Linux distribution is *Debian*. More control over your computer comes with a time cost, and one needs to strike a balance according to their needs. Debian sits in the middle of the spectrum between Windows and Arch Linux. I chose it because it's stable, meaning there aren't any annoying and potentially dangerious updates. Also, it was an easy transition from Ubuntu.
+* My Linux distribution is *Debian*. More control over your computer comes with a time cost, and one needs to strike a balance according to their needs. Debian sits in the middle of the spectrum between Windows and Arch Linux. I chose it because it's stable, meaning I get less crashes at the cost of slightly older software. Also, it was an easy transition from Ubuntu.
 
 * I prefer *KDE* as a desktop environment. It's much more customisable than GNOME.
 

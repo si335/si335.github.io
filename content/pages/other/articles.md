@@ -15,6 +15,7 @@ Here's a small selection of articles that I like.
 * [Intelligence Signalling: Why We Do It, and Why It Matters](https://www.youtube.com/watch?v=Zk6uHi_Rdm4) 
 * [Childhoods of Exceptional People](https://www.henrikkarlsson.xyz/p/childhoods) 
 * [On the Experience of Using a Guest Pass at an Elite Gym](https://www.applieddivinitystudies.com/gym/)  | For when you feel inadequate.
+* [Omens of Exceptional Talent](https://guzey.com/talent/) /  [Cursed Omens of Exceptional Talent](https://guzey.com/cursed-talent/) 
 
 # Jobs
 
@@ -25,6 +26,7 @@ Here's a small selection of articles that I like.
 
 # Society 
 
+* [Social Status: Down the Rabbit Hole](https://meltingasphalt.com/social-status-down-the-rabbit-hole/)  🆕
 * [Reasons Not to Become Famous](https://tim.blog/2020/02/02/reasons-to-not-become-famous/)  | Important, I intend to live by this.
 * [Progress in Beauty](https://gwern.net/beauty) 
 * [Learning the Elite Class](https://aella.substack.com/p/learning-the-elite-class) 
@@ -34,6 +36,7 @@ Here's a small selection of articles that I like.
 
 * [US is Better than Europe!](https://walkingtheworld.substack.com/p/us-is-better-than-europe) / [Europe is Healthier than US](https://walkingtheworld.substack.com/p/europe-is-healthier-than-us) 
 * [Notes on Nigeria](https://mattlakeman.org/2023/05/09/notes-on-nigeria/) / [Notes on Guinea](https://mattlakeman.org/2023/11/07/notes-on-guinea/)
+* [Notes on Azerbaijan](https://avrasya.substack.com/p/notes-on-azerbaijan-part-i) 🆕
 
 # Love
 
