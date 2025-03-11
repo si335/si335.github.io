@@ -28,5 +28,5 @@ I maintain problem archives for High School Olympiads:
 
 # Tutoring
 
-This year I'll be doing some tutoring for Physics Olympiads, starting in February.\
+This year I'm doing some tutoring for Physics Olympiads.\
 For more details, see [here](/teaching/Tutoring.pdf).
