@@ -3,6 +3,7 @@ title = "Classical Music"
 path = "/other/cm"
 template = "about.html"
 +++
+<center><img width="70%" src="/op18_2.png"></center>
 
 # Symphonies
 
