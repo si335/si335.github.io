@@ -26,7 +26,7 @@ Here's a small selection of articles that I like.
 
 # Society 
 
-* [Social Status: Down the Rabbit Hole](https://meltingasphalt.com/social-status-down-the-rabbit-hole/)  🆕
+* [Social Status: Down the Rabbit Hole](https://meltingasphalt.com/social-status-down-the-rabbit-hole/) 
 * [Reasons Not to Become Famous](https://tim.blog/2020/02/02/reasons-to-not-become-famous/)  | Important, I intend to live by this.
 * [Progress in Beauty](https://gwern.net/beauty) 
 * [Learning the Elite Class](https://aella.substack.com/p/learning-the-elite-class) 
@@ -36,7 +36,7 @@ Here's a small selection of articles that I like.
 
 * [US is Better than Europe!](https://walkingtheworld.substack.com/p/us-is-better-than-europe) / [Europe is Healthier than US](https://walkingtheworld.substack.com/p/europe-is-healthier-than-us) 
 * [Notes on Nigeria](https://mattlakeman.org/2023/05/09/notes-on-nigeria/) / [Notes on Guinea](https://mattlakeman.org/2023/11/07/notes-on-guinea/)
-* [Notes on Azerbaijan](https://avrasya.substack.com/p/notes-on-azerbaijan-part-i) 🆕
+* [Notes on Azerbaijan](https://avrasya.substack.com/p/notes-on-azerbaijan-part-i) 
 
 # Love
 
@@ -46,9 +46,12 @@ Here's a small selection of articles that I like.
 # Stories 
 
 * [The 1925 Cave Rescue that Captivated the Nation](https://www.mentalfloss.com/article/544782/1925-cave-rescue-that-captivated-the-united-states-floyd-collins) 
+* [The Fifty-nine-Story Crisis](https://archive.is/BC2Ix) 🆕
+
 
 # Fictions
 
+* [The Last Question](https://users.ece.cmu.edu/~gamvrosi/thelastq.html) 🆕
 * [Mundane Magic](https://www.readthesequences.com/Mundane-Magic) 
 * [Five Prophets](https://samkriss.substack.com/p/five-prophets) 
 
