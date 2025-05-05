@@ -94,6 +94,7 @@ Many of the videos are put up as segues into channels that I enjoy; feel free to
 
 # Fun
 
+* [What is Momentum?](https://www.youtube.com/watch?v=jm7jVi8akcc) [0:05]
 * [Tatefacts – Phosphorus](https://www.youtube.com/watch?v=IXvB_pxv3Sg) [0:08]
 * [Australia is Wild](https://www.youtube.com/shorts/EIDTk33S5l0) [0:01] / [Looking for a Huge Anaconda](https://www.youtube.com/shorts/jsrPLvXqmO8) [0:01]
 * [Blunders! With GM Ben Finegold](https://www.youtube.com/watch?v=EDgRR7SGf0M) [0:57]
