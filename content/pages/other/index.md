@@ -30,7 +30,7 @@ Polymaths:
 * [Gavin Leech](https://www.gleech.org/)
 * [Kevin Simler](https://meltingasphalt.com/)
 * [Sam Enright](https://samenright.substack.com/)
-* [Alvaro de Menard](https://fantasticanachronism.com/)
+* [Alvaro de Menard](https://oldblog.fantasticanachronism.com/)
 
 Physics:
 * [Bartosz Ciechanowski](https://ciechanow.ski/archives/) | High-quality visualisations.
