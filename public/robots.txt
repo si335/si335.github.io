@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 Allow: /
-Sitemap: https://si335.github.io/sitemap.xml
+Sitemap: https://stefanivanov.site/sitemap.xml
