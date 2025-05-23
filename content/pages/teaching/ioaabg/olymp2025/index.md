@@ -1,6 +1,6 @@
 +++
 title = "Национален кръг на олимпиадата по астрономия – Димитровград, 2025"
-path = "olymp2025"
+path = "teaching/ioaabg/olymp2025"
 template = "about.html"
 +++
 <br />

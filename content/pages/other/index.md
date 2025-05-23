@@ -31,6 +31,7 @@ Polymaths:
 * [Kevin Simler](https://meltingasphalt.com/)
 * [Sam Enright](https://samenright.substack.com/)
 * [Alvaro de Menard](https://oldblog.fantasticanachronism.com/)
+* [Luke Muehlhauser](https://lukemuehlhauser.com/)
 
 Physics:
 * [Bartosz Ciechanowski](https://ciechanow.ski/archives/) | High-quality visualisations.

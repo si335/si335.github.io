@@ -7,9 +7,6 @@
         <loc>https://stefanivanov.site/about/</loc>
     </url>
     <url>
-        <loc>https://stefanivanov.site/olymp2025/</loc>
-    </url>
-    <url>
         <loc>https://stefanivanov.site/other/</loc>
     </url>
     <url>
@@ -32,6 +29,9 @@
     </url>
     <url>
         <loc>https://stefanivanov.site/teaching/ioaabg/</loc>
+    </url>
+    <url>
+        <loc>https://stefanivanov.site/teaching/ioaabg/olymp2025/</loc>
     </url>
     <url>
         <loc>https://stefanivanov.site/teaching/iphobg/</loc>
