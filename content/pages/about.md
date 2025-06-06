@@ -7,5 +7,5 @@ template = "about.html"
 
 I'm a teacher at the Sofia High School of Mathematics. I hold a Master's degree from Cambridge, where I dabbled in gravity and statistical physics. I'm currently working on an astronomy textbook. You can find a CV [here](/cv_web.pdf).
 
-Get in touch!  
-[sivanov.mail@proton.me](mailto:sivanov.mail@proton.me)  
+Feel free to email me at [sivanov.mail@proton.me](mailto:sivanov.mail@proton.me).<br>
+If you want to give me anonymous feedback on something, use this [form](https://forms.gle/4bNv8gYehaV3p8jF7).

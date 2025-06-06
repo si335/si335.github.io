@@ -4,9 +4,14 @@ path = "other/sumo"
 template = "about.html"
 +++
 
-I like Terunofuji, Kirishima, Ura, Hokutofuji.
+It's wrestling plus ancient traditions:
+* The foot-stomping you're familiar with is done to drive away evil spirits from the earth and bring a good harvest.
+* Wrestlers toss salt into the ring so as to purify it. Some choose to throw just a [pinch](https://www.youtube.com/watch?v=mzd7lIzZ1eQ), while others tend to go [overboard](https://www.youtube.com/watch?v=lFUPgksNloU).
+* The highest-ranking judges carry a dagger to show their readiness to commit seppuku should they make a wrong call. In modern times, they submit their resignation instead. 
 
-Here's a collection of nice bouts. Footage can be found through NattoSumo's Discord server. 
+Nowadays I don't follow sumo as much, the [NHK](https://en.wikipedia.org/wiki/NHK) is fussy about copyright and it's become quite difficult to find the broadcasts online. I'm a fan of Terunofuji, Kirishima, Ura, and Hokutofuji, though two of them have now retired. 
+
+Here's a collection of nice bouts. You can find the footage via NattoSumo's Discord server. 
 
 # Nagoya 2023
 

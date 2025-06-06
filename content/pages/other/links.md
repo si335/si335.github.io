@@ -19,6 +19,7 @@ Many of the videos are put up as segues into channels that I enjoy; feel free to
 * [Cursed Units](https://www.youtube.com/watch?v=kkfIXUjkYqE) [0:18]
 * [Newton's Principia and a Book about Fish](https://www.youtube.com/watch?v=eZwzE2VFCtI) [0:09]
 * [What Everyone Gets Wrong about Planes](https://www.youtube.com/watch?v=vjDYfvPW4mA) [0:19]
+* [The World's Strongest Handheld Laser](https://www.youtube.com/watch?v=UBVlL0FNbSE) [0:36] 🆕
 * [The Effects Of The Ionosphere On Radio Wave Propagation (1950)](https://www.youtube.com/watch?v=YVxprkGqCPk) [0:29] 
 * [The Man Who Killed Millions and Saved Billions](https://www.youtube.com/watch?v=QQkmJI63ykI) [0:21]
 * [Smoking is Awesome](https://www.youtube.com/watch?v=_rBPwu2uS-w) [0:12]
@@ -74,7 +75,7 @@ Many of the videos are put up as segues into channels that I enjoy; feel free to
 * [A Beginner's Guide to South Korean Cinema](https://www.youtube.com/watch?v=QdgjH5BAFqk) [0:16]
 * [The Beauty of The Fall](https://www.youtube.com/watch?v=cEIGYr16zqU) [0:03]
 
-# Essays
+# Video Essays
 
 * [Fear of Cold](https://www.youtube.com/watch?v=Pp2wbyLoEtM) [0:48]
 * [Fear of Forgetting](https://www.youtube.com/watch?v=dIv5Y-vql90) [0:49]
@@ -84,7 +85,7 @@ Many of the videos are put up as segues into channels that I enjoy; feel free to
 
 # Games
 
-* [Predatory Practices in Mobile Games](https://www.youtube.com/watch?v=xNjI03CGkb4) [0:20] 🆕
+* [Predatory Practices in Mobile Games](https://www.youtube.com/watch?v=xNjI03CGkb4) [0:20] 
 * [What Games are Like for Someone Who Doesn't Play Games](https://www.youtube.com/watch?v=ax7f3JZJHSw) [0:21]
 * [Searching for Disco Elysium](https://www.youtube.com/watch?v=Md5PTWBuGpg) [0:24]
 * [Hollow Knight Critique](https://www.youtube.com/watch?v=7t1mxoMIDfY) [1:06]

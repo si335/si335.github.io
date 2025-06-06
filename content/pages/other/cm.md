@@ -5,6 +5,8 @@ template = "about.html"
 +++
 <center><img width="70%" src="/op18_2.png"></center>
 
+In case you're not familiar with classical music, don't be intimidated and give some of these pieces a try! The pieces I listen to are certainly more accessible than most experimental rock or jazz (yet those genres are way more popular). I think the symphonies and concertos are a good introduction. If you like intense music, maybe start with Mendelssohn, Tchaikovsky, or Beethoven. My favourite composer is Brahms.
+
 # Symphonies
 
 * Beethoven No. 5 [(Kleiber)](https://www.youtube.com/watch?v=WFifaY_eZU0)
@@ -38,9 +40,9 @@ template = "about.html"
 * R. Schumann – Piano Quintet [(Vassilenko/Belcea Quartet)](https://youtu.be/EV3hBRtnDkA?feature=shared&t=123)
 * C. Schumann – Piano Trio [(Atlantis Trio)](https://www.youtube.com/watch?v=udZiIvt4w24)
 * Franck – Piano Trio No. 1 [(Trio Novanta)](https://www.youtube.com/watch?v=izzXp0aOL2I)
-* Brahms – Piano Trio No. 1 [(Pires/Dumay/Wang)](https://www.youtube.com/watch?v=XKqIHLb5_mk)
+* Brahms – Piano Trio No. 1 [(Pires/Dumay/Wang)](https://www.youtube.com/watch?v=neyLy-xGgoE&list=OLAK5uy_mWknpiRVxpLBD32HqONZD65MjIs0HCMqQ&index=1)
 * Brahms – Piano Trio No. 3 [(Katschen/Suk/Starker)](https://www.youtube.com/watch?v=qqq6FAI9i1s)
-* Brahms – Piano Quartet No. 1 [Fauré Quartet](https://www.youtube.com/watch?v=7BPX4ppMFQY)
+* Brahms – Piano Quartet No. 1 [(Fauré Quartet)](https://www.youtube.com/watch?v=7BPX4ppMFQY)
 * Brahms – Violin Sonata No. 3 [(Oistrakh/Richter)](https://www.youtube.com/watch?v=VRn_8BtYjT8) [(Roussev/Uinskas)](https://www.youtube.com/watch?v=RTGEazhKC-4)
 * Brahms – Cello Sonata No. 1 [(Mørk/Lagerspetz)](https://www.youtube.com/watch?v=nPLVscIpH-0)
 * Brahms – Clarinet Quintet [(Leister/Brandis Quartet)](https://www.youtube.com/watch?v=RU9WlDIkuRE) 
