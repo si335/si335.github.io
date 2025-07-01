@@ -23,6 +23,7 @@ Many of the videos are put up as segues into channels that I enjoy; feel free to
 * [The Effects Of The Ionosphere On Radio Wave Propagation (1950)](https://www.youtube.com/watch?v=YVxprkGqCPk) [0:29] 
 * [The Man Who Killed Millions and Saved Billions](https://www.youtube.com/watch?v=QQkmJI63ykI) [0:21]
 * [Smoking is Awesome](https://www.youtube.com/watch?v=_rBPwu2uS-w) [0:12]
+* [How Nuclear Flies Protect You from Flesh-Eating Parasites](https://www.youtube.com/watch?v=zxq60I5RSW8) [0:11] 🆕
 
 # Computers
 

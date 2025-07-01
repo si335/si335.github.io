@@ -39,3 +39,7 @@ template = "about.html"
 [25-astro-res.pdf](/25-astro-res.pdf)
 
 </div>
+
+# Участници
+
+![Photo](/photo2025.jpg "Снимка на участниците")
