@@ -36,6 +36,9 @@ Polymaths:
 Physics:
 * [Bartosz Ciechanowski](https://ciechanow.ski/archives/) | High-quality visualisations.
 
+Writers:
+* [Sam Kriss](https://samkriss.substack.com/) 
+
 Other:
 * [Ex Utopia](https://www.exutopia.com/) | Fascinating travel blog.
 * [Public Domain Review](https://publicdomainreview.org/essays/) 

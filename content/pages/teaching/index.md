@@ -18,8 +18,8 @@ I maintain problem archives for High School Olympiads:
 
 [Bulgarian IPhO team selection tests](/teaching/tst)
 
-[IPhO resources (in Bulgarian)](/teaching/iphobg)\
-[IOAA resources (in Bulgarian)](/teaching/ioaabg)
+[Physics resources (in Bulgarian)](/teaching/iphobg)\
+[Astronomy resources (in Bulgarian)](/teaching/ioaabg)
 
 # Advice
 

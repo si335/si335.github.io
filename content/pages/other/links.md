@@ -19,16 +19,19 @@ Many of the videos are put up as segues into channels that I enjoy; feel free to
 * [Cursed Units](https://www.youtube.com/watch?v=kkfIXUjkYqE) [0:18]
 * [Newton's Principia and a Book about Fish](https://www.youtube.com/watch?v=eZwzE2VFCtI) [0:09]
 * [What Everyone Gets Wrong about Planes](https://www.youtube.com/watch?v=vjDYfvPW4mA) [0:19]
-* [The World's Strongest Handheld Laser](https://www.youtube.com/watch?v=UBVlL0FNbSE) [0:36] 🆕
-* [The Effects Of The Ionosphere On Radio Wave Propagation (1950)](https://www.youtube.com/watch?v=YVxprkGqCPk) [0:29] 
+* [The Sound of Those Buzzing Magnets](https://www.youtube.com/watch?v=cVGwwO-SMbE) [0:11] 🆕
+* [Why do Humans Like Jazz?](https://www.youtube.com/watch?v=Gc5eICzHkFU) [0:17] 🆕
+* [The World's Strongest Handheld Laser](https://www.youtube.com/watch?v=UBVlL0FNbSE) [0:36] 
+* [The Effects of the Ionosphere on Radio Wave Propagation (1950)](https://www.youtube.com/watch?v=YVxprkGqCPk) [0:29] 
 * [The Man Who Killed Millions and Saved Billions](https://www.youtube.com/watch?v=QQkmJI63ykI) [0:21]
 * [Smoking is Awesome](https://www.youtube.com/watch?v=_rBPwu2uS-w) [0:12]
-* [How Nuclear Flies Protect You from Flesh-Eating Parasites](https://www.youtube.com/watch?v=zxq60I5RSW8) [0:11] 🆕
+* [How Nuclear Flies Protect You from Flesh-Eating Parasites](https://www.youtube.com/watch?v=zxq60I5RSW8) [0:11]
 
 # Computers
 
 * [QWERTY is Broken](https://www.youtube.com/watch?v=188fipF-i5I) [0:15]
 * [Deep Blue](https://www.youtube.com/watch?v=HwF229U2ba8) [2:09]
+* [Geoffrey Hinton Interview, April 2025](https://www.youtube.com/watch?v=qyH3NxFz3Aw) [0:52] 🆕
 
 # Stories
 
@@ -67,6 +70,7 @@ Many of the videos are put up as segues into channels that I enjoy; feel free to
 
 # Art
 
+* [Invisible Cities and The Limits of Reading](https://www.youtube.com/watch?v=TCRESqjnbss) [0:16] 🆕
 * [Why Sargent Painted Outside the Lines](https://www.youtube.com/watch?v=tjLk5pNn2Js) [0:08] / [Madame X and Dr. Pozzi](https://www.youtube.com/watch?v=cuHgxPe3J7I) [0:32]
 * [How Japan Influenced Van Gogh and the Impressionists](https://www.youtube.com/watch?v=eClIbeOxR1c) [0:10]
 * [Art of the Unconscious Mind](https://www.youtube.com/watch?v=CqMjvkhS29s) [0:14]
@@ -99,6 +103,7 @@ Many of the videos are put up as segues into channels that I enjoy; feel free to
 * [What is Momentum?](https://www.youtube.com/watch?v=jm7jVi8akcc) [0:05]
 * [Tatefacts – Phosphorus](https://www.youtube.com/watch?v=IXvB_pxv3Sg) [0:08]
 * [Australia is Wild](https://www.youtube.com/shorts/EIDTk33S5l0) [0:01] / [Looking for a Huge Anaconda](https://www.youtube.com/shorts/jsrPLvXqmO8) [0:01]
+* [Werner Herzog on Languages](https://www.youtube.com/watch?v=6pY-0JfEdLY) [0:02]
 * [Blunders! With GM Ben Finegold](https://www.youtube.com/watch?v=EDgRR7SGf0M) [0:57]
 * [Best of James May: Our Man in Japan](https://www.youtube.com/watch?v=SPfijTQXZ0I) [0:25] 
 
