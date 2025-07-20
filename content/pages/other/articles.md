@@ -38,7 +38,7 @@ Here's a small selection of articles that I like.
 * [US is Better than Europe!](https://walkingtheworld.substack.com/p/us-is-better-than-europe) / [Europe is Healthier than US](https://walkingtheworld.substack.com/p/europe-is-healthier-than-us) 
 * [Notes on Nigeria](https://mattlakeman.org/2023/05/09/notes-on-nigeria/) / [Notes on Guinea](https://mattlakeman.org/2023/11/07/notes-on-guinea/)
 * [Notes on Azerbaijan](https://avrasya.substack.com/p/notes-on-azerbaijan-part-i) 
-* [Gluten-Free Antarctica](https://idlewords.com/2018/12/gluten_free_antarctica.htm) / [McMurdo](https://idlewords.com/2016/05/shuffleboard_at_mcmurdo.htm) 🆕
+* [Gluten-Free Antarctica](https://idlewords.com/2018/12/gluten_free_antarctica.htm) / [Shuffleboard at McMurdo](https://idlewords.com/2016/05/shuffleboard_at_mcmurdo.htm) 🆕
 
 # Love
 
