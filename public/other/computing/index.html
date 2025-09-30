@@ -54,7 +54,7 @@
 <h1 id="setup">Setup</h1>
 <ul>
 <li>
-<p>My Linux distribution is <em>Debian</em>. More control over your computer comes with a time cost, and one needs to strike a balance according to their needs. Debian sits in the middle of the spectrum between Windows and Arch Linux. I chose it because it's stable, meaning I get less crashes at the cost of slightly older software. Also, it was an easy transition from Ubuntu.</p>
+<p>My Linux distribution is <a href="https://www.debian.org/"><em>Debian</em></a>. More control over your computer comes with a time cost, and one needs to strike a balance according to their needs. Debian sits in the middle of the spectrum between Windows and Arch Linux. I chose it because it's stable, meaning I get less crashes at the cost of slightly older software. Also, it was an easy transition from Ubuntu.</p>
 </li>
 <li>
 <p>I prefer <em>KDE</em> as a desktop environment. It's much more customisable than GNOME.</p>
@@ -66,7 +66,7 @@
 <p>My text editor is <em>vim</em>. In particular, <em>vim-gtk3</em>, which comes with system clipboard interaction.</p>
 </li>
 <li>
-<p>My browser is <em>Firefox</em>. I use <a href="https://github.com/yokoffing/Betterfox"><em>Betterfox</em></a> for privacy and <a href="https://github.com/tridactyl/tridactyl"><em>Tridactyl</em></a> for Vim keybindings.</p>
+<p>My browser is <em>Firefox</em>. It has the best support for <a href="https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/"><em>uBlock Origin</em></a>, which ensures that you never get ads. I use <a href="https://github.com/yokoffing/Betterfox"><em>Betterfox</em></a> for privacy and <a href="https://github.com/tridactyl/tridactyl"><em>Tridactyl</em></a> for Vim keybindings.</p>
 </li>
 <li>
 <p>This website is powered by <a href="https://www.getzola.org/"><em>Zola</em></a>. I found it less clunky than e.g. Hugo or Jekyll.</p>
@@ -89,6 +89,20 @@
 </li>
 </ul>
 <p>Vim is extremely customisable, and this allows for wizardry. For example, I've copied a workflow that makes working with LaTeX trivial via the plugin <a href="https://github.com/lervag/vimtex"><em>VimTeX</em></a> and the pdf viewer <a href="https://pwmt.org/projects/zathura/"><em>Zathura</em></a>. See it in action on Elijan Mastnak's <a href="https://ejmastnak.com/tutorials/vim-latex/intro/">website</a>.</p>
+<h1 id="redshift">Redshift</h1>
+<p>If you're having difficulty falling asleep, reducing blue light in the evenings is a great help. I use <a href="https://en.wikipedia.org/wiki/Redshift_(software)"><em>Redshift</em></a> with a simple <a href="https://en.wikipedia.org/wiki/Cron"><em>cron</em></a> script that switches it on and off abruptly. After installing cron, type <code>crontab -e</code> in the terminal and add the following lines, changing the hours as desired:</p>
+<pre><code>0 23 * * * DISPLAY=:0 &#x2F;bin&#x2F;bash ~&#x2F;redshift_on.sh
+</code></pre>
+<pre><code>0 7 * * * DISPLAY=:0 &#x2F;bin&#x2F;bash ~&#x2F;redshift_off.sh
+</code></pre>
+<p>Here the shell scripts <code>redshift_on/off.sh</code> we call are both one-liners:</p>
+<pre><code>redshift -O 3500  # For &quot;on&quot; (night mode); sets &quot;temperature&quot; to 3500 K
+</code></pre>
+<pre><code>redshift -x  # For &quot;off&quot; (reset to default)
+</code></pre>
+<p>You'll need to make them executable with</p>
+<pre><code>chmod -x ~&#x2F;redshift_on.sh ~&#x2F;redshift_off.sh
+</code></pre>
 <h1 id="tips">Tips</h1>
 <ul>
 <li>

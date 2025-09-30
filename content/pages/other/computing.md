@@ -8,7 +8,7 @@ I'm really a beginner when it comes to tinkering with computers. However, my qua
 
 # Setup
 
-* My Linux distribution is *Debian*. More control over your computer comes with a time cost, and one needs to strike a balance according to their needs. Debian sits in the middle of the spectrum between Windows and Arch Linux. I chose it because it's stable, meaning I get less crashes at the cost of slightly older software. Also, it was an easy transition from Ubuntu.
+* My Linux distribution is [*Debian*](https://www.debian.org/). More control over your computer comes with a time cost, and one needs to strike a balance according to their needs. Debian sits in the middle of the spectrum between Windows and Arch Linux. I chose it because it's stable, meaning I get less crashes at the cost of slightly older software. Also, it was an easy transition from Ubuntu.
 
 * I prefer *KDE* as a desktop environment. It's much more customisable than GNOME.
 
@@ -16,7 +16,7 @@ I'm really a beginner when it comes to tinkering with computers. However, my qua
 
 * My text editor is *vim*. In particular, *vim-gtk3*, which comes with system clipboard interaction.
 
-* My browser is *Firefox*. I use [*Betterfox*](https://github.com/yokoffing/Betterfox) for privacy and [*Tridactyl*](https://github.com/tridactyl/tridactyl) for Vim keybindings.
+* My browser is *Firefox*. It has the best support for [*uBlock Origin*](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/), which ensures that you never get ads. I use [*Betterfox*](https://github.com/yokoffing/Betterfox) for privacy and [*Tridactyl*](https://github.com/tridactyl/tridactyl) for Vim keybindings.  
 
 * This website is powered by [*Zola*](https://www.getzola.org/). I found it less clunky than e.g. Hugo or Jekyll. 
 
@@ -34,8 +34,26 @@ Vim is a very powerful editor which is well worth learning. Here's how:
 
 Vim is extremely customisable, and this allows for wizardry. For example, I've copied a workflow that makes working with LaTeX trivial via the plugin [*VimTeX*](https://github.com/lervag/vimtex) and the pdf viewer [*Zathura*](https://pwmt.org/projects/zathura/). See it in action on Elijan Mastnak's [website](https://ejmastnak.com/tutorials/vim-latex/intro/).
 
+# Redshift
 
-
+If you're having difficulty falling asleep, reducing blue light in the evenings is a great help. I use [*Redshift*](https://en.wikipedia.org/wiki/Redshift_(software)) with a simple [*cron*](https://en.wikipedia.org/wiki/Cron) script that switches it on and off abruptly. After installing cron, type `crontab -e` in the terminal and add the following lines, changing the hours as desired:
+~~~
+0 23 * * * DISPLAY=:0 /bin/bash ~/redshift_on.sh
+~~~
+~~~
+0 7 * * * DISPLAY=:0 /bin/bash ~/redshift_off.sh
+~~~
+Here the shell scripts `redshift_on/off.sh` we call are both one-liners:
+~~~
+redshift -O 3500  # For "on" (night mode); sets "temperature" to 3500 K
+~~~
+~~~
+redshift -x  # For "off" (reset to default)
+~~~
+You'll need to make them executable with 
+~~~
+chmod -x ~/redshift_on.sh ~/redshift_off.sh
+~~~
 # Tips
 
 * Learn touch typing if you haven't yet. This will be very frustrating in the first month, but you will see substantial returns. Consider how many hours of your life you have lost because you couldn't transfer your thoughts to text quickly enough.
