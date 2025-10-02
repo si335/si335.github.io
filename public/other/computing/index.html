@@ -90,20 +90,26 @@
 </ul>
 <p>Vim is extremely customisable, and this allows for wizardry. For example, I've copied a workflow that makes working with LaTeX trivial via the plugin <a href="https://github.com/lervag/vimtex"><em>VimTeX</em></a> and the pdf viewer <a href="https://pwmt.org/projects/zathura/"><em>Zathura</em></a>. See it in action on Elijan Mastnak's <a href="https://ejmastnak.com/tutorials/vim-latex/intro/">website</a>.</p>
 <h1 id="redshift">Redshift</h1>
-<p>If you're having difficulty falling asleep, reducing blue light in the evenings is a great help. I use <a href="https://en.wikipedia.org/wiki/Redshift_(software)"><em>Redshift</em></a> with a simple <a href="https://en.wikipedia.org/wiki/Cron"><em>cron</em></a> script that switches it on and off abruptly. After installing cron, type <code>crontab -e</code> in the terminal and add the following lines, changing the hours as desired:</p>
-<pre><code>0 23 * * * DISPLAY=:0 &#x2F;bin&#x2F;bash ~&#x2F;redshift_on.sh
+<p>If you're having difficulty falling asleep, reducing blue light in the evenings is a great help. I use <a href="https://en.wikipedia.org/wiki/Redshift_(software)"><em>Redshift</em></a> with a short <a href="https://en.wikipedia.org/wiki/Cron"><em>cron</em></a> script that switches it on and off abruptly. After installing cron, type <code>crontab -e</code> in the terminal and add the following lines, changing the hours as desired:</p>
+<pre><code>*&#x2F;30 23-6 * * * DISPLAY=:0 &#x2F;bin&#x2F;bash ~&#x2F;redshift_on.sh
 </code></pre>
-<pre><code>0 7 * * * DISPLAY=:0 &#x2F;bin&#x2F;bash ~&#x2F;redshift_off.sh
+<pre><code>*&#x2F;30 7-22 * * * DISPLAY=:0 &#x2F;bin&#x2F;bash ~&#x2F;redshift_off.sh
 </code></pre>
-<p>Here the shell scripts <code>redshift_on/off.sh</code> we call are both one-liners:</p>
-<pre><code>redshift -O 3500  # For &quot;on&quot; (night mode); sets &quot;temperature&quot; to 3500 K
+<p>This runs a couple of shell scripts every 30 minutes (because cron doesn't work when computer is turned off). The on/off scripts look like this:</p>
+<pre><code>if ! pgrep -x &quot;redshift&quot; &gt; &#x2F;dev&#x2F;null # Checks that redshift is not running 
+then
+	redshift  # Adaptive night mode
+fi
 </code></pre>
-<pre><code>redshift -x  # For &quot;off&quot; (reset to default)
+<pre><code>if pgrep -x &quot;redshift&quot; &gt; &#x2F;dev&#x2F;null # Checks that redshift is running
+then
+	redshift -x  # Turn off completely
+fi
 </code></pre>
 <p>You'll need to make them executable with</p>
 <pre><code>chmod -x ~&#x2F;redshift_on.sh ~&#x2F;redshift_off.sh
 </code></pre>
-<h1 id="tips">Tips</h1>
+<h1 id="other-tips">Other Tips</h1>
 <ul>
 <li>
 <p>Learn touch typing if you haven't yet. This will be very frustrating in the first month, but you will see substantial returns. Consider how many hours of your life you have lost because you couldn't transfer your thoughts to text quickly enough.</p>

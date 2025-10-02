@@ -36,25 +36,31 @@ Vim is extremely customisable, and this allows for wizardry. For example, I've c
 
 # Redshift
 
-If you're having difficulty falling asleep, reducing blue light in the evenings is a great help. I use [*Redshift*](https://en.wikipedia.org/wiki/Redshift_(software)) with a simple [*cron*](https://en.wikipedia.org/wiki/Cron) script that switches it on and off abruptly. After installing cron, type `crontab -e` in the terminal and add the following lines, changing the hours as desired:
+If you're having difficulty falling asleep, reducing blue light in the evenings is a great help. I use [*Redshift*](https://en.wikipedia.org/wiki/Redshift_(software)) with a short [*cron*](https://en.wikipedia.org/wiki/Cron) script that switches it on and off abruptly. After installing cron, type `crontab -e` in the terminal and add the following lines, changing the hours as desired:
 ~~~
-0 23 * * * DISPLAY=:0 /bin/bash ~/redshift_on.sh
-~~~
-~~~
-0 7 * * * DISPLAY=:0 /bin/bash ~/redshift_off.sh
-~~~
-Here the shell scripts `redshift_on/off.sh` we call are both one-liners:
-~~~
-redshift -O 3500  # For "on" (night mode); sets "temperature" to 3500 K
+*/30 23-6 * * * DISPLAY=:0 /bin/bash ~/redshift_on.sh
 ~~~
 ~~~
-redshift -x  # For "off" (reset to default)
+*/30 7-22 * * * DISPLAY=:0 /bin/bash ~/redshift_off.sh
+~~~
+This runs a couple of shell scripts every 30 minutes (because cron doesn't work when computer is turned off). The on/off scripts look like this:
+~~~
+if ! pgrep -x "redshift" > /dev/null # Checks that redshift is not running 
+then
+	redshift  # Adaptive night mode
+fi
+~~~
+~~~
+if pgrep -x "redshift" > /dev/null # Checks that redshift is running
+then
+	redshift -x  # Turn off completely
+fi
 ~~~
 You'll need to make them executable with 
 ~~~
 chmod -x ~/redshift_on.sh ~/redshift_off.sh
 ~~~
-# Tips
+# Other Tips
 
 * Learn touch typing if you haven't yet. This will be very frustrating in the first month, but you will see substantial returns. Consider how many hours of your life you have lost because you couldn't transfer your thoughts to text quickly enough.
 
