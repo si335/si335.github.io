@@ -20,7 +20,7 @@ template = "about.html"
 2016: [Problems](/teaching/TST2016.pdf) | [Solutions](/teaching/TST2016sol.pdf) &nbsp; &#128549;   
 2017: [Problems](/teaching/TST2017.pdf) | [Solutions](/teaching/TST2017sol.pdf) &nbsp; &#128549;   
 2018: [Problems](/teaching/TST2018.pdf) | Solutions   
-2019: [Problems](/teaching/TST2019.pdf) | Solutions   
+2019: [Problems](/teaching/TST2019.pdf) | [**Solutions**](/teaching/TST2019sol.pdf) &nbsp;    
 2020: Not held   
 2021: [Problems](/teaching/TST2021.pdf) | [**Solutions**](/teaching/TST2021sol.pdf) &nbsp;    
 2022: [Problems](/teaching/TST2022.pdf) | Solutions   
