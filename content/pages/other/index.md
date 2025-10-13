@@ -18,13 +18,9 @@ template = "about.html"
 
 ### [Sumo](/other/sumo)
 
-# Blogroll
-Advice:
-* [Paul Graham](https://www.paulgraham.com/articles.html) 
-* [Quarter Mile](https://quarter--mile.com/) | To the point and very helpful.
-* [Terence Tao](https://terrytao.wordpress.com/career-advice/) | Hypercompetent, should be listened to.
+# Websites
 
-Polymaths:  
+Bloggers:
 * [Scott Alexander](https://slatestarcodex.com/about/)
 * [Marginal Revolution](https://marginalrevolution.com/) 
 * [Gavin Leech](https://www.gleech.org/)
@@ -32,6 +28,12 @@ Polymaths:
 * [Sam Enright](https://samenright.substack.com/)
 * [Alvaro de Menard](https://oldblog.fantasticanachronism.com/)
 * [Luke Muehlhauser](https://lukemuehlhauser.com/)
+* [Zhengdong Wang](https://zhengdongwang.com/)
+
+Advice:
+* [Paul Graham](https://www.paulgraham.com/articles.html) 
+* [Quarter Mile](https://quarter--mile.com/) 
+* [Terence Tao](https://terrytao.wordpress.com/career-advice/) | Hypercompetent, should be listened to.
 
 Physics:
 * [Bartosz Ciechanowski](https://ciechanow.ski/archives/) | High-quality visualisations.
@@ -43,4 +45,3 @@ Other:
 * [Ex Utopia](https://www.exutopia.com/) | Fascinating travel blog.
 * [Public Domain Review](https://publicdomainreview.org/essays/) 
 
-Many more interesting people are listed on [People Watching](https://pplwatching.substack.com/).

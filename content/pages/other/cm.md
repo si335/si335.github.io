@@ -33,7 +33,8 @@ In case you're not familiar with classical music, don't be intimidated and give 
 * Beethoven – String Quartet No. 13 [(Jasper Quartet)](https://www.youtube.com/watch?v=a7wk0M125JM)
 * Beethoven – String Quartet No. 14 [(Ariel Quartet)](https://www.youtube.com/watch?v=FUob2dcQTWA)
 * Schubert – String Quartet No. 14 [(Integra Quartet)](https://www.youtube.com/watch?v=yWxlmjaNk8A)
-* Mendelssohn – Piano Trio No. 1 [(Beaux Arts Trio)](https://www.youtube.com/watch?v=KioVcstEF9E)
+* Mendelssohn – Piano Trio No. 1 [(Claremont Trio)](https://www.youtube.com/watch?v=FAAxO7FrSuU)
+* Mendelssohn – Piano Trio No. 2 [(Claremont Trio)](https://www.youtube.com/watch?v=Dr-GDustbwI&list=PLq8wD17N4Ia0yfbVkjaOw5GsqHPzSNnbK)
 * Mendelssohn – String Quartet No. 6 [(Ébène Quartet)](https://www.youtube.com/watch?v=beB-Vu8GuEs&list=PLq8wD17N4Ia1LNs8k34S9WVmMpr8hwexs)
 * Chopin – Cello Sonata [(Mørk/Stott)](https://www.youtube.com/watch?v=E2az8ch_EIU)
 * R. Schumann – Piano Quartet [(Goerner/Kashimoto/Karni/Gabetta)](https://www.youtube.com/watch?v=cu8tUCvBN34)
@@ -69,6 +70,7 @@ In case you're not familiar with classical music, don't be intimidated and give 
 # Short pieces and movements
 
 * Beethoven – Coriolan Overture [(Karajan)](https://www.youtube.com/watch?v=DzINFjNPmqI)
+* Beethoven – String Quartet No. 13, Mov. V [(Budapest Quartet)](https://www.youtube.com/watch?v=nS-NkG16QTc)
 * Beethoven – Grosse Fuge [(Dover Quartet)](https://www.youtube.com/watch?v=MVJt4t4RIcw)
 * Schubert – Impromptu Op. 90, No. 3 [(Horowitz)](https://www.youtube.com/watch?v=LgHyKuC6tQs)
 * Schubert – Piano Sonata No. 21, Mov. I [(Zimerman)](https://www.youtube.com/watch?v=Z1kRFDA7orU)
