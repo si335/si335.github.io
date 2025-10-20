@@ -1,5 +1,5 @@
 +++
-title = "Other stuff"
+title = "Other Stuff"
 path = "other"
 template = "about.html"
 +++
@@ -12,9 +12,12 @@ template = "about.html"
 
 ### [Movies](https://letterboxd.com/deluded/) / [TV](https://serializd.com/user/giraffe/)
 
+### [Computing](/other/computing)
+
+### [Things I use](/other/usesthis)
+
 ### [Classical music](/other/cm)
 
-### [Computing](/other/computing)
 
 ### [Sumo](/other/sumo)
 

@@ -51,7 +51,7 @@
         <h1 class="page-content-title">Computing</h1>
         <div class="page-content-body">
             <p>I'm really a beginner when it comes to tinkering with computers. However, my quality of life improved significantly once I started caring about my experience in front of a screen. I used to be <em>scared</em> of computers until my supervisor in university got me to make the jump to Linux. I suggest you try it out too!</p>
-<h1 id="setup">Setup</h1>
+<h1 id="software">Software</h1>
 <ul>
 <li>
 <p>My Linux distribution is <a href="https://www.debian.org/"><em>Debian</em></a>. More control over your computer comes with a time cost, and one needs to strike a balance according to their needs. Debian sits in the middle of the spectrum between Windows and Arch Linux. I chose it because it's stable, meaning I get less crashes at the cost of slightly older software. Also, it was an easy transition from Ubuntu.</p>
@@ -63,13 +63,32 @@
 <p>I use the terminal with <em>bash</em> and <a href="https://tmux.github.io"><em>tmux</em></a>.</p>
 </li>
 <li>
-<p>My text editor is <em>vim</em>. In particular, <em>vim-gtk3</em>, which comes with system clipboard interaction.</p>
+<p>My text editor is <em>vim</em> (see below). In particular, <em>vim-gtk3</em>, which comes with system clipboard interaction.</p>
 </li>
 <li>
-<p>My browser is <em>Firefox</em>. It has the best support for <a href="https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/"><em>uBlock Origin</em></a>, which ensures that you never get ads. I use <a href="https://github.com/yokoffing/Betterfox"><em>Betterfox</em></a> for privacy and <a href="https://github.com/tridactyl/tridactyl"><em>Tridactyl</em></a> for Vim keybindings.</p>
+<p>My browser is <em>Firefox</em>. It has the best support for <a href="https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/"><em>uBlock Origin</em></a>, which ensures that you never get ads. I use <a href="https://github.com/yokoffing/Betterfox"><em>Betterfox</em></a> for privacy and <a href="https://github.com/tridactyl/tridactyl"><em>Tridactyl</em></a> for Vim keybindings. The add-on <a href="https://addons.mozilla.org/en-US/firefox/addon/simple-translate/"><em>Simple Translate</em></a> is convenient for pages in other languages.</p>
 </li>
 <li>
-<p>This website is powered by <a href="https://www.getzola.org/"><em>Zola</em></a>. I found it less clunky than e.g. Hugo or Jekyll.</p>
+<p>If you're having difficulty falling asleep, reducing blue light in the evenings is a great help. I use KDE's canned solution called <em>Night Color</em>. Terminal enthusiasts can try <a href="https://en.wikipedia.org/wiki/Redshift_(software)"><em>redshift</em></a>, but I found it to be much more finicky.</p>
+</li>
+<li>
+<p>This website is powered by <a href="https://www.getzola.org/"><em>Zola</em></a>. It is less clunky than e.g. Hugo or Jekyll.</p>
+</li>
+</ul>
+<h1 id="phone">Phone</h1>
+<p>All the apps I'll list are for <em>Android</em>, which is more customisable than iOS and has better file management and file transfer.</p>
+<ul>
+<li>
+<p><a href="https://pipepipe.dev/"><em>PipePipe</em></a> – A front-end for YouTube which disables the ads, allows you to download videos, and can play music in the background. It's like <a href="https://newpipe.net/"><em>NewPipe</em></a>, but it's faster and I get fewer errors.</p>
+</li>
+<li>
+<p><a href="https://docs.ankidroid.org/"><em>AnkiDroid</em></a> – Does what it says on the tin (i.e. <a href="https://apps.ankiweb.net/"><em>Anki</em></a> for Android). Converting Anki to a mobile game helps you to be more consistent with <a href="https://ncase.me/remember/">spaced repetition</a>. If you're learning a language or cramming for an exam, using Anki is mandatory. Unfortunately, the learning curve is dreadful, but this <a href="https://www.youtube.com/watch?v=WmPx333n5UQ">tutorial</a> for the desktop version is good.</p>
+</li>
+<li>
+<p><a href="https://play.google.com/store/apps/details?id=com.microsoft.office.officelens"><em>Microsoft Lens</em></a> – Perhaps surprisingly, other scanning apps still don't come close.</p>
+</li>
+<li>
+<p><a href="https://play.google.com/store/apps/details?id=uk.co.nickfines.RealCalc&amp;hl=en_US"><em>RealCalc</em></a> – For your scientific calculator needs. I've been using it for about ten years now. Simple interface with big buttons means you can do calculations with astonishing speed.</p>
 </li>
 </ul>
 <h1 id="vim">Vim</h1>
@@ -89,30 +108,10 @@
 </li>
 </ul>
 <p>Vim is extremely customisable, and this allows for wizardry. For example, I've copied a workflow that makes working with LaTeX trivial via the plugin <a href="https://github.com/lervag/vimtex"><em>VimTeX</em></a> and the pdf viewer <a href="https://pwmt.org/projects/zathura/"><em>Zathura</em></a>. See it in action on Elijan Mastnak's <a href="https://ejmastnak.com/tutorials/vim-latex/intro/">website</a>.</p>
-<h1 id="redshift">Redshift</h1>
-<p>If you're having difficulty falling asleep, reducing blue light in the evenings is a great help. I use <a href="https://en.wikipedia.org/wiki/Redshift_(software)"><em>Redshift</em></a> with a short <a href="https://en.wikipedia.org/wiki/Cron"><em>cron</em></a> script that switches it on and off abruptly. After installing cron, type <code>crontab -e</code> in the terminal and add the following lines, changing the hours as desired:</p>
-<pre><code>*&#x2F;30 23-6 * * * DISPLAY=:0 &#x2F;bin&#x2F;bash ~&#x2F;redshift_on.sh
-</code></pre>
-<pre><code>*&#x2F;30 7-22 * * * DISPLAY=:0 &#x2F;bin&#x2F;bash ~&#x2F;redshift_off.sh
-</code></pre>
-<p>This runs a couple of shell scripts every 30 minutes (because cron doesn't work when computer is turned off). The on/off scripts look like this:</p>
-<pre><code>if ! pgrep -x &quot;redshift&quot; &gt; &#x2F;dev&#x2F;null # Checks that redshift is not running 
-then
-	redshift  # Adaptive night mode
-fi
-</code></pre>
-<pre><code>if pgrep -x &quot;redshift&quot; &gt; &#x2F;dev&#x2F;null # Checks that redshift is running
-then
-	redshift -x  # Turn off completely
-fi
-</code></pre>
-<p>You'll need to make them executable with</p>
-<pre><code>chmod -x ~&#x2F;redshift_on.sh ~&#x2F;redshift_off.sh
-</code></pre>
-<h1 id="other-tips">Other Tips</h1>
+<h1 id="other-tips">Other tips</h1>
 <ul>
 <li>
-<p>Learn touch typing if you haven't yet. This will be very frustrating in the first month, but you will see substantial returns. Consider how many hours of your life you have lost because you couldn't transfer your thoughts to text quickly enough.</p>
+<p>Learn touch typing if you haven't yet. This will be very frustrating in the first month, but you will see substantial returns. Consider how many hours of your life you have lost because you couldn't transfer your thoughts to text quickly enough. Note that you shouldn't ask me for tips, as I sit at a measly 65 words-per-minute.</p>
 </li>
 <li>
 <p>With great power comes great responsibility. In Linux, you can break your whole system with a single command. If you want to mess with the plumbing, make sure you've backed up your computer first.</p>
