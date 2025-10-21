@@ -18,7 +18,6 @@ template = "about.html"
 
 ### [Classical music](/other/cm)
 
-
 ### [Sumo](/other/sumo)
 
 # Websites
@@ -43,6 +42,7 @@ Physics:
 
 Writers:
 * [Sam Kriss](https://samkriss.substack.com/) 
+* [The Psmiths](https://www.thepsmiths.com/) 
 
 Other:
 * [Ex Utopia](https://www.exutopia.com/) | Fascinating travel blog.
