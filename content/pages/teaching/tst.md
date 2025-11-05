@@ -4,7 +4,9 @@ path = "/teaching/tst"
 template = "about.html"
 +++
 
-[General Information](/teaching/TSTinfo.pdf) <--- Read this first!
+[General Information](/teaching/TSTinfo.pdf) <--- Read this first!   
+
+[Recommended Problems](/teaching/TSTrecs.pdf)   
 
 2005: [Problems](/teaching/TST2005.pdf) | Solutions   
 2006: [Problems](/teaching/TST2006.pdf) | Solutions  
