@@ -19,10 +19,11 @@ Here's a small selection of articles that I like.
 
 # Jobs
 
-* [Six Lessons I Learned Working at an Art Gallery](https://www.henrikkarlsson.xyz/p/art-gallery) 
-* [Cities and Ambition](https://paulgraham.com/cities.html)
+* [I Am a Gold Coin](http://stefanivanov.site/other/coin.pdf) 🆕
 * [Does Money Buy Happiness?](https://www.maximumtruth.org/p/data-dive-money-does-not-buy-much) | TLDR: No, but it improves life satisfaction somewhat.
 * [Salary Negotiation](https://www.kalzumeus.com/2012/01/23/salary-negotiation/) 
+* [Six Lessons I Learned Working at an Art Gallery](https://www.henrikkarlsson.xyz/p/art-gallery) 
+* [Cities and Ambition](https://paulgraham.com/cities.html)
 * [Consulting and Finance as Black Holes of Elite Human Capital](https://passingtime.substack.com/p/valuable-but-not-productive)  | But also see the comments [here](https://old.reddit.com/r/slatestarcodex/comments/1h54laf/consulting_finance_as_black_holes_of_elite_human/). 
 
 # Society 
