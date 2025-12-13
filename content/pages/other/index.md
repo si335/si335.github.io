@@ -31,6 +31,7 @@ Bloggers:
 * [Alvaro de Menard](https://oldblog.fantasticanachronism.com/)
 * [Luke Muehlhauser](https://lukemuehlhauser.com/)
 * [Zhengdong Wang](https://zhengdongwang.com/)
+* [Jenneral HQ](https://www.jenn.site/)
 
 Advice:
 * [Paul Graham](https://www.paulgraham.com/articles.html) 
