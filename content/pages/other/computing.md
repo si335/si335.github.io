@@ -51,6 +51,6 @@ Vim is extremely customisable, and this allows for some wizardry. For example, I
 
 # Other tips
 
-* Learn touch typing if you haven't yet. This will be very frustrating in the first month, but you will see substantial returns. Consider how many hours of your life you have lost because you couldn't transfer your thoughts to text quickly enough. Note that you shouldn't ask me for tips, as I sit at a measly <s>65</s> 75 words-per-minute.
+* Learn touch typing if you haven't yet. This will be very frustrating in the first month, but you will see substantial returns. Consider how many [hours](https://www.njbrown.com/blog/3/) of your life you have lost because you couldn't transfer your thoughts to text quickly enough. Note that you shouldn't ask me for tips, as I sit at a measly <s>65</s> 75 words-per-minute.
 
 * With great power comes great responsibility. In Linux, you can break your whole system with a single command. If you want to mess with the plumbing, make sure you've backed up your computer first.
