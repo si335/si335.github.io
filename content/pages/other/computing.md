@@ -28,7 +28,7 @@ All the apps I'll list are for *Android*, which is more customisable than iOS an
 
 * [*PipePipe*](https://pipepipe.dev/) – A front-end for YouTube which disables the ads, allows you to download videos, and can play music in the background. It's like [*NewPipe*](https://newpipe.net/), but it's faster and I get fewer errors.
 
-* [*AnkiDroid*](https://docs.ankidroid.org/) – Does what it says on the tin (i.e. [*Anki*](https://apps.ankiweb.net/) for Android). Converting Anki to a mobile game helps you to be more consistent with [spaced repetition](https://ncase.me/remember/). If you're learning a language or cramming for an exam, using Anki is mandatory. Unfortunately, the learning curve is dreadful, but this [tutorial](https://www.youtube.com/watch?v=WmPx333n5UQ) for the desktop version is good.
+* [*AnkiDroid*](https://docs.ankidroid.org/) – Does what it says on the tin (i.e. [*Anki*](https://apps.ankiweb.net/) for Android). Converting Anki to a mobile game helps you to be more consistent with [spaced repetition](https://ncase.me/remember/). If you're learning a language or cramming for an exam, using Anki is mandatory. Unfortunately, the learning curve is dreadful, but this [tutorial](https://www.youtube.com/watch?v=WmPx333n5UQ) for the desktop version is good. Like with contract bridge and Dark Souls, it's best to learn as you go.
 
 * [*Microsoft Lens*](https://play.google.com/store/apps/details?id=com.microsoft.office.officelens) – Perhaps surprisingly, other scanning apps still don't come close.
 
