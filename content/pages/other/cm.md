@@ -69,6 +69,7 @@ In case you're not familiar with classical music, don't be intimidated and give 
 
 # Short pieces and movements
 
+* Purcell –  When I Am Laid in Earth [(Thoma](https://www.youtube.com/watch?v=uGQq3HcOB0Y)[s)](https://www.youtube.com/watch?v=iCAmeQtcz0Y)
 * Beethoven – Coriolan Overture [(Karajan)](https://www.youtube.com/watch?v=DzINFjNPmqI)
 * Beethoven – String Quartet No. 13, Mov. V [(Budapest Quartet)](https://www.youtube.com/watch?v=nS-NkG16QTc)
 * Beethoven – Grosse Fuge [(Dover Quartet)](https://www.youtube.com/watch?v=MVJt4t4RIcw)
