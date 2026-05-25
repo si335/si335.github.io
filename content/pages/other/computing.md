@@ -16,7 +16,9 @@ I'm really a beginner when it comes to tinkering with computers. However, my qua
 
 * My text editor is *vim* (see below). In particular, *vim-gtk3*, which comes with system clipboard interaction.
 
-* My browser is *Firefox*. It has the best support for [*uBlock Origin*](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/), which ensures that you never get ads. I use [*Betterfox*](https://github.com/yokoffing/Betterfox) for privacy and [*Tridactyl*](https://github.com/tridactyl/tridactyl) for Vim keybindings. The add-on [*Simple Translate*](https://addons.mozilla.org/en-US/firefox/addon/simple-translate/) is convenient for pages in other languages.
+* My browser is *Firefox*. It has the best support for [*uBlock Origin*](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/), which ensures that you never get ads. I use [*Betterfox*](https://github.com/yokoffing/Betterfox) for privacy and [*Tridactyl*](https://github.com/tridactyl/tridactyl) for Vim keybindings. The add-ons [*LeechBlock*](https://addons.mozilla.org/en-US/firefox/addon/leechblock-ng/) and [*Update Scanner*](https://addons.mozilla.org/en-US/firefox/addon/update-scanner/) help you fight doomscrolling. The extension [*Simple Translate*](https://addons.mozilla.org/en-US/firefox/addon/simple-translate/) is convenient for pages in other languages.
+
+* My password manager is [*KeePassXC*](https://keepassxc.org/). If you're not using a password manager, chances are your passwords are far too [weak](https://bitwarden.com/password-strength/). KeePassXC does not store your passwords in the cloud, so transferring them to another device is a bit more tedious. On the other hand, it's free.
 
 * If you're having difficulty falling asleep, reducing blue light in the evenings is a great help. I use KDE's canned solution called *Night Color*. Terminal enthusiasts can try [*redshift*](https://en.wikipedia.org/wiki/Redshift_(software)), but I found it to be much more finicky.
 
@@ -30,7 +32,7 @@ All the apps I'll list are for *Android*, which is more customisable than iOS an
 
 * [*AnkiDroid*](https://docs.ankidroid.org/) – Does what it says on the tin (i.e. [*Anki*](https://apps.ankiweb.net/) for Android). Converting Anki to a mobile game helps you to be more consistent with [spaced repetition](https://ncase.me/remember/). If you're learning a language or cramming for an exam, using Anki is mandatory. Unfortunately, the learning curve is dreadful, but this [tutorial](https://www.youtube.com/watch?v=WmPx333n5UQ) for the desktop version is good. Like with contract bridge and Dark Souls, it's best to learn as you go.
 
-* [*Microsoft Lens*](https://play.google.com/store/apps/details?id=com.microsoft.office.officelens) – Perhaps surprisingly, other scanning apps still don't come close.
+* [*Adobe Scan*](https://play.google.com/store/apps/details?id=com.adobe.scan.android) – For scanner apps, it's best to yield to the corporations. After Microsoft retired their Lens app, this is probably the next best option. The open-source alternatives' user interface is less hostile, but they do not produce good, legible PDFs.
 
 * [*RealCalc*](https://play.google.com/store/apps/details?id=uk.co.nickfines.RealCalc&hl=en_US) – For your scientific calculator needs. I've been using it for about ten years now. Simple interface with big buttons means you can do calculations with astonishing speed.
 
