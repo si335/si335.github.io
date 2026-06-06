@@ -29,6 +29,7 @@ template = "about.html"
 2023: [Problems](/teaching/TST2023.pdf) | [Solutions](/teaching/TST2023sol.pdf)   
 2024: [Problems](/teaching/TST2024.pdf) | Solutions  
 2025: Not held   
+2026: [Problems](/teaching/TST2026.pdf) | Solutions  
 
 Other undated TST problems (with solutions):\
 [Band gap of germanium](/teaching/germanium.pdf)
