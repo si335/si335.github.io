@@ -21,15 +21,15 @@ template = "about.html"
 2015: [Problems](/teaching/TST2015.pdf) | [Solutions](/teaching/TST2015sol.pdf) &nbsp; &#128549;   
 2016: [Problems](/teaching/TST2016.pdf) | [Solutions](/teaching/TST2016sol.pdf) &nbsp; &#128549;   
 2017: [Problems](/teaching/TST2017.pdf) | [Solutions](/teaching/TST2017sol.pdf) &nbsp; &#128549;   
-2018: [Problems](/teaching/TST2018.pdf) | [**Solutions**](/teaching/TST2018sol.pdf) &nbsp;    
-2019: [Problems](/teaching/TST2019.pdf) | [**Solutions**](/teaching/TST2019sol.pdf) &nbsp;    
+2018: [Problems](/teaching/TST2018.pdf) | [Solutions](/teaching/TST2018sol.pdf) &nbsp;    
+2019: [Problems](/teaching/TST2019.pdf) | [Solutions](/teaching/TST2019sol.pdf) &nbsp;    
 2020: Not held   
-2021: [Problems](/teaching/TST2021.pdf) | [**Solutions**](/teaching/TST2021sol.pdf) &nbsp;    
+2021: [Problems](/teaching/TST2021.pdf) | [Solutions](/teaching/TST2021sol.pdf) &nbsp;    
 2022: [Problems](/teaching/TST2022.pdf) | Solutions   
 2023: [Problems](/teaching/TST2023.pdf) | [Solutions](/teaching/TST2023sol.pdf)   
 2024: [Problems](/teaching/TST2024.pdf) | Solutions  
 2025: Not held   
-2026: [Problems](/teaching/TST2026.pdf) | Solutions  
+2026: [**Problems**](/teaching/TST2026.pdf) | [**Solutions**](/teaching/TST2026sol.pdf)   
 
 Other undated TST problems (with solutions):\
 [Band gap of germanium](/teaching/germanium.pdf)
