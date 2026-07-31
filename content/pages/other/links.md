@@ -38,6 +38,7 @@ Many of the videos are put up as segues into channels that I enjoy; feel free to
 * [Flight 370](https://www.youtube.com/watch?v=kd2KEHvK-q8) [0:25] / [Flight 522](https://www.youtube.com/watch?v=X_Rr6-HV3as) [0:23]
 * [The Enduring Mystery of Jack the Ripper](https://www.youtube.com/watch?v=lADBHDg-JtA) [1:09]
 * [The Battle of May Island](https://www.youtube.com/watch?v=IZS0RpOgdfQ) [1:00]
+* [America's Forgotten Presidential Assasination](https://www.youtube.com/watch?v=5_rD_frtE-U) [1:04]
 * [The Eddystone Lighthouse](https://www.youtube.com/watch?v=QmrjoKJ4s58) [0:26]
 * [The Drift King: Keiichi Tsuchiya](https://www.youtube.com/watch?v=whYNCwz5Fec) [0:17]
 
@@ -106,5 +107,7 @@ Many of the videos are put up as segues into channels that I enjoy; feel free to
 * [Werner Herzog on Languages](https://www.youtube.com/watch?v=6pY-0JfEdLY) [0:02]
 * [Blunders! With GM Ben Finegold](https://www.youtube.com/watch?v=EDgRR7SGf0M) [0:57]
 * [Best of James May: Our Man in Japan](https://www.youtube.com/watch?v=SPfijTQXZ0I) [0:25] 
+* [Greedy Seagull Swoops Into Kitchen and Eats Entire Tuna Salad Before Flying Into a Window](https://www.youtube.com/watch?v=X1pQ99yZvfI) [0:01] 
+
 
 
