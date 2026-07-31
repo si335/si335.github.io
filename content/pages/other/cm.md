@@ -38,7 +38,7 @@ In case you're not familiar with classical music, don't be intimidated and give 
 * Mendelssohn – String Quartet No. 6 [(Ébène Quartet)](https://www.youtube.com/watch?v=beB-Vu8GuEs&list=PLq8wD17N4Ia1LNs8k34S9WVmMpr8hwexs)
 * Chopin – Cello Sonata [(Mørk/Stott)](https://www.youtube.com/watch?v=E2az8ch_EIU)
 * R. Schumann – Piano Quartet [(Goerner/Kashimoto/Karni/Gabetta)](https://www.youtube.com/watch?v=cu8tUCvBN34)
-* R. Schumann – Piano Quintet [(Vassilenko/Belcea Quartet)](https://youtu.be/EV3hBRtnDkA?feature=shared&t=123)
+* R. Schumann – Piano Quintet [(Vassilenko/Belcea Quartet)](https://youtu.be/EV3hBRtnDkA?feature=shared&t=123) [(Pressler/Emerson Quartet)](https://www.youtube.com/watch?v=SoJXrj34nkw&list=PLWofApTs8w_w)
 * C. Schumann – Piano Trio [(Atlantis Trio)](https://www.youtube.com/watch?v=udZiIvt4w24)
 * Franck – Piano Trio No. 1 [(Trio Novanta)](https://www.youtube.com/watch?v=izzXp0aOL2I)
 * Brahms – Piano Trio No. 1 [(Pires/Dumay/Wang)](https://www.youtube.com/watch?v=neyLy-xGgoE&list=OLAK5uy_mWknpiRVxpLBD32HqONZD65MjIs0HCMqQ&index=1)
@@ -56,6 +56,7 @@ In case you're not familiar with classical music, don't be intimidated and give 
 
 # Solo music
 
+* Beethoven – Piano Sonata No. 4 [(Sokolov)](https://www.youtube.com/watch?v=eiFwrbCVXFc)
 * Beethoven – Piano Sonata No. 17, 'Tempest' [(Korstick)](https://www.youtube.com/watch?v=hl_6lAvMsKE)
 * Beethoven – Piano Sonata No. 29, 'Hammerklavier' [(Pollini)](https://www.youtube.com/watch?v=0vH726tBg70)
 * Chopin – Piano Sonata No. 2 [(Pogorelich)](https://www.youtube.com/watch?v=gHZHy2B6MCc) [(Zimerman)](https://www.youtube.com/watch?v=DhB59YCvxuw)
@@ -76,6 +77,7 @@ In case you're not familiar with classical music, don't be intimidated and give 
 * Schubert – Impromptu Op. 90, No. 3 [(Horowitz)](https://www.youtube.com/watch?v=LgHyKuC6tQs)
 * Schubert – Piano Sonata No. 21, Mov. I [(Zimerman)](https://www.youtube.com/watch?v=Z1kRFDA7orU)
 * Mendelssohn – String Quartet No. 2, Mov. I [(Dover Quartet)](https://www.youtube.com/watch?v=FwtACU4NR3M)
+* Mendelssohn – Cello Sonata No. 2, Mov. II [(Isserlis/Hough)](https://www.youtube.com/watch?v=fp1h_-l8h7I)
 * Chopin – Prelude Op. 25, No. 15 [(Horowitz)](https://www.youtube.com/watch?v=LnxiRjzB6S4) 
 * Chopin – Nocturne Op. 48, No. 1 [(Weissenberg)](https://www.youtube.com/watch?v=KRuPvuCe-LM) 
 * R. Schumann – Piano Trio No. 3, Mov. I [(Munich Dvořák Trio)](https://www.youtube.com/watch?v=C0oFKoIs4z4)
