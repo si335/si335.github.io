@@ -21,3 +21,4 @@ henry_links = [
 ]
 
 henry_github = "https://github.com/si335"
+katex = true
