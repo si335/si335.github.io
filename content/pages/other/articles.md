@@ -19,7 +19,7 @@ Here's a small selection of articles that I like.
 
 # Jobs
 
-* [I Am a Gold Coin](http://stefanivanov.site/other/coin.pdf) 🆕
+* [I Am a Gold Coin](http://stefanivanov.site/other/coin.pdf)
 * [Does Money Buy Happiness?](https://www.maximumtruth.org/p/data-dive-money-does-not-buy-much) | TLDR: No, but it improves life satisfaction somewhat.
 * [Salary Negotiation](https://www.kalzumeus.com/2012/01/23/salary-negotiation/) 
 * [Six Lessons I Learned Working at an Art Gallery](https://www.henrikkarlsson.xyz/p/art-gallery) 
@@ -35,15 +35,17 @@ Here's a small selection of articles that I like.
 * [Why We Need the Humanities](https://acoup.blog/2020/07/03/collections-the-practical-case-on-why-we-need-the-humanities/) 
 
 # History
-* [Niccolao Manucci in Mughal India](https://www.thepsmiths.com/p/review-storia-do-mogor-by-niccolao) 🆕 
+* [Niccolao Manucci in Mughal India](https://www.thepsmiths.com/p/review-storia-do-mogor-by-niccolao)
 * [Letters to Stalin](https://journals.openedition.org/monderusse/8185)
 
 # The World
 
 * [US is Better than Europe!](https://walkingtheworld.substack.com/p/us-is-better-than-europe) / [Europe is Healthier than US](https://walkingtheworld.substack.com/p/europe-is-healthier-than-us) 
+* [France and the French](https://wanderingdanny.com/jennifer/) 🆕
+* [Lubumbashi to Kinshasa, No Bribes](https://geoff.greer.fm/congo/) 🆕
 * [Notes on Nigeria](https://mattlakeman.org/2023/05/09/notes-on-nigeria/) / [Notes on Guinea](https://mattlakeman.org/2023/11/07/notes-on-guinea/)
 * [Notes on Azerbaijan](https://avrasya.substack.com/p/notes-on-azerbaijan-part-i) 
-* [Sana'a](https://idlewords.com/2014/07/sana_a.htm) 🆕
+* [Sana'a](https://idlewords.com/2014/07/sana_a.htm)
 * [Gluten-Free Antarctica](https://idlewords.com/2018/12/gluten_free_antarctica.htm) / [Shuffleboard at McMurdo](https://idlewords.com/2016/05/shuffleboard_at_mcmurdo.htm)
 
 # Love
