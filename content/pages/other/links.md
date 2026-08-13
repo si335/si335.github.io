@@ -108,7 +108,7 @@ Many of the videos are put up as segues into channels that I enjoy; feel free to
 * [Blunders! With GM Ben Finegold](https://www.youtube.com/watch?v=EDgRR7SGf0M) [0:57]
 * [Dani DaOrtiz at TRICS 2025 -- Card Magic](https://www.youtube.com/watch?v=8RqPr0BxGu8) [0:36] 🆕
 * [Best of James May: Our Man in Japan](https://www.youtube.com/watch?v=SPfijTQXZ0I) [0:25] 
-* [Greedy Seagull Swoops Into Kitchen and Eats Entire Tuna Salad Before Flying Into a Window](https://www.youtube.com/watch?v=X1pQ99yZvfI) [0:01] 🆕
+* [Greedy Seagull Swoops Into Kitchen and Eats Entire Tuna Salad Before Flying Into a Window](https://www.youtube.com/watch?v=X1pQ99yZvfI) [0:01]
 
 
 
