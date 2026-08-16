@@ -1,6 +1,6 @@
 +++
 title = "Подготовка за IZhO 2025"
-path = "teaching/iphobg/camp2"
+path = "teaching/iphobg/camp25"
 template = "about.html"
 +++
 <br />
@@ -18,11 +18,11 @@ template = "about.html"
 
 |Дата   |&nbsp;&nbsp;                Занятие (9:00-12:30) |
 |-------|--------------------------------------------------------------------------------------------|
-| 06.01 |&nbsp;&nbsp;         [[СИ] Механика](/teaching/iphobg/camp2/01.pdf)     |    
-| 07.01 |&nbsp;&nbsp;         [[СИ] Електромагнетизъм](/teaching/iphobg/camp2/02.pdf)     |   
-| 08.01 |&nbsp;&nbsp;         [[СИ] Топлина](/teaching/iphobg/camp2/03.pdf)      |  
-| 09.01 |&nbsp;&nbsp;         [[СИ] Релативистика](/teaching/iphobg/camp2/04.pdf)| 
-| 10.01 |&nbsp;&nbsp;         [[ГК] Оптика](/teaching/iphobg/camp2/05.pdf)   |
+| 06.01 |&nbsp;&nbsp;         [[СИ] Механика](/teaching/iphobg/camp25/01.pdf)     |    
+| 07.01 |&nbsp;&nbsp;         [[СИ] Електромагнетизъм](/teaching/iphobg/camp25/02.pdf)     |   
+| 08.01 |&nbsp;&nbsp;         [[СИ] Топлина](/teaching/iphobg/camp25/03.pdf)      |  
+| 09.01 |&nbsp;&nbsp;         [[СИ] Релативистика](/teaching/iphobg/camp25/04.pdf)| 
+| 10.01 |&nbsp;&nbsp;         [[ГК] Оптика](/teaching/iphobg/camp25/05.pdf)   |
 
 </div>
 
