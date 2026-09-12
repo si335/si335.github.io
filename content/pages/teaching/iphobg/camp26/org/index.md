@@ -6,7 +6,7 @@ template = "about.html"
 ![Notebook](/codex.png "Codex Arundel (1478-1518)")
 <!-- ![Logo](/olympicbg.png) -->
 
-Информацията е актуална към 02.09.
+(Информацията е актуална към 02.09)
 
 # Участници
 
