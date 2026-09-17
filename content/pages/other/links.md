@@ -31,7 +31,8 @@ Many of the videos are put up as segues into channels that I enjoy; feel free to
 
 * [QWERTY is Broken](https://www.youtube.com/watch?v=188fipF-i5I) [0:15]
 * [Deep Blue](https://www.youtube.com/watch?v=HwF229U2ba8) [2:09]
-* [Geoffrey Hinton Interview, April 2025](https://www.youtube.com/watch?v=qyH3NxFz3Aw) [0:52] 
+* [Geoffrey Hinton Interview (April 2025)](https://www.youtube.com/watch?v=qyH3NxFz3Aw) [0:52] 
+* [Terence Tao – Mathematics in the Age of AI (August 2026)](https://www.youtube.com/watch?v=M0--ZH1lOzg) [0:51] 
 
 # Stories
 
