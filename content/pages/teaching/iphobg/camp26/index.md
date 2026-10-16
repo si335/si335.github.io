@@ -3,7 +3,6 @@ title = "Школа „Български олимпийски таланти“
 path = "teaching/iphobg/camp26"
 template = "about.html"
 +++
-<!-- ![Notebook](/codex.png "Codex Arundel (1478-1518)") -->
 <!-- ![Logo](/olympicbg.png) -->
 
 
@@ -49,7 +48,7 @@ template = "about.html"
 
 |Дата   |&nbsp;&nbsp;                Сутрин (9:30-13:00)   |&nbsp;&nbsp;       Следобед (14:00-17:30) |
 |-------|--------------------------------------------------|------------------------------------------|
-| 03.09 |&nbsp;&nbsp;         Настаняване                  |&nbsp;&nbsp;  [[СИ] Вх. ниво](./exam1-S.pdf), [Механика](./01SB.pdf)     |
+| 03.09 |&nbsp;&nbsp;         Настаняване                  |&nbsp;&nbsp;  [[СИ] Вх. нив](./exam1-S.pdf)[о](./exam1-S-res.pdf), [Механика](./01SB.pdf)     |
 | 04.09 |&nbsp;&nbsp;         [[ГА] Механика](./02SA.pdf)                |&nbsp;&nbsp;  [[ГА] Механика](./02SB.pdf)               |
 | 05.09 |&nbsp;&nbsp;         [[ГА] Топлина](./03SA.pdf)                 |&nbsp;&nbsp;  [[ГА] Топлина](./03SB.pdf)                |
 | 06.09 |&nbsp;&nbsp;         [[СИ] Топлина](./04SA.pdf)                 |&nbsp;&nbsp;  [[СИ] Топлина](./04SB.pdf)      |
@@ -58,7 +57,7 @@ template = "about.html"
 | 09.09 |&nbsp;&nbsp;         [[ГА] Електромагнетизъм](./06SA.pdf)       |&nbsp;&nbsp;  [[СИ] Електромагнетизъм](./06SB.pdf)           |
 | 10.09 |&nbsp;&nbsp;         [[СИ] Електромагнетизъм](./07SA.pdf)            |&nbsp;&nbsp;  [[СИ] Вълни/оптика](./07SB.pdf)           |
 | 11.09 |&nbsp;&nbsp;         [[СИ] Вълни/оптика](./08SA.pdf)          |&nbsp;&nbsp;  [[ГА] Съвр. физика](./08SB.pdf)         |
-| 12.09 |&nbsp;&nbsp;         [[СИ] Съвр. физика](./09SA.pdf)          |&nbsp;&nbsp;  [[СИ] Съвр. физика](./09SB.pdf), [Изх. ниво](./exam2-S.pdf) |
+| 12.09 |&nbsp;&nbsp;         [[СИ] Съвр. физика](./09SA.pdf)          |&nbsp;&nbsp;  [[СИ] Съвр. физика](./09SB.pdf), [Изх. нив](./exam2-S.pdf)[о](./exam2-S-res.pdf) |
 
 </div>
 <br>
